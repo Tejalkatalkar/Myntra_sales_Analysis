@@ -1,0 +1,2001 @@
+Order_ID,Product_Name,Category,Price,Discount_Percentage,Quantity_Sold,Total_Sale_Value,Payment_Method,Customer_Rating,City
+1,Jacket,Women,4083,13,4,14208.84,Cash on Delivery,3.1,Chennai
+2,Shorts,Men,1872,47,3,2976.48,Cash on Delivery,4,Mumbai
+3,Jeans,Men,3132,26,1,2317.68,UPI,4.1,Kolkata
+4,Jacket,Men,1815,26,2,2686.2,Credit Card,3.9,Kolkata
+5,T-Shirt,Men,4425,31,2,6106.5,Debit Card,4.5,Mumbai
+6,Jeans,Women,1934,22,2,3017.04,Debit Card,4.5,Kolkata
+7,Jacket,Kids,2629,33,1,1761.43,Credit Card,4.1,Bangalore
+8,Shoes,Men,2520,31,4,6955.2,Cash on Delivery,3.6,Hyderabad
+9,Shorts,Women,3199,14,1,2751.14,UPI,4.5,Kolkata
+10,T-Shirt,Kids,3464,24,4,10530.56,UPI,4.8,Bangalore
+11,Shorts,Kids,948,42,4,2199.36,UPI,3.6,Chennai
+12,Shoes,Women,4098,45,4,9015.6,Credit Card,3.4,Pune
+13,Sweater,Men,2361,11,1,2101.29,Debit Card,3.5,Bangalore
+14,Shoes,Men,2882,38,1,1786.84,Credit Card,3.4,Chennai
+15,Sweater,Women,1285,6,2,2415.8,Cash on Delivery,3.6,Pune
+16,Shorts,Men,3134,22,2,4889.04,Cash on Delivery,3.7,Kolkata
+17,Dress,Women,3249,47,5,8609.85,Cash on Delivery,3,Hyderabad
+18,Shoes,Women,3970,27,1,2898.1,Debit Card,4.8,Hyderabad
+19,T-Shirt,Men,3645,35,4,9477,UPI,3.3,Delhi
+20,Shoes,Women,898,39,5,2738.9,Cash on Delivery,3.2,Pune
+21,Dress,Kids,1888,36,3,3624.96,Credit Card,4.1,Chennai
+22,Jeans,Men,3998,30,4,11194.4,Wallet,4.2,Mumbai
+23,Jeans,Kids,1079,50,5,2697.5,Cash on Delivery,4.1,Delhi
+24,Jacket,Women,1067,6,5,5014.9,UPI,4.1,Pune
+25,Jacket,Men,769,15,5,3268.25,UPI,4.4,Hyderabad
+26,Sweater,Women,1391,42,1,806.78,Credit Card,4.6,Hyderabad
+27,Shoes,Kids,4224,9,5,19219.2,Debit Card,4,Kolkata
+28,T-Shirt,Women,1335,49,1,680.85,UPI,4.6,Pune
+29,Dress,Kids,2972,29,1,2110.12,Credit Card,4.5,Mumbai
+30,Jacket,Men,1896,27,4,5536.32,Wallet,4.1,Bangalore
+31,Shoes,Men,1762,37,3,3330.18,Debit Card,3,Delhi
+32,Dress,Women,4836,10,4,17409.6,Cash on Delivery,3.2,Bangalore
+33,Sweater,Women,1666,9,4,6064.24,Credit Card,4.3,Bangalore
+34,Shoes,Kids,1181,5,5,5609.75,Debit Card,4.7,Hyderabad
+35,Jeans,Women,4604,43,5,13121.4,Wallet,4.1,Kolkata
+36,Dress,Men,3364,27,4,9822.88,Cash on Delivery,4.8,Delhi
+37,T-Shirt,Men,3412,12,4,12010.24,Credit Card,4.4,Mumbai
+38,T-Shirt,Men,2718,11,1,2419.02,Credit Card,3.4,Kolkata
+39,Shorts,Kids,3241,16,2,5444.88,Cash on Delivery,3.3,Delhi
+40,Shoes,Men,1107,33,4,2966.76,Cash on Delivery,3.5,Kolkata
+41,Dress,Women,3197,41,2,3772.46,Wallet,4.8,Kolkata
+42,Jeans,Kids,2758,41,1,1627.22,Wallet,3.9,Pune
+43,Shorts,Women,2529,16,3,6373.08,Cash on Delivery,3.7,Kolkata
+44,Sweater,Women,1125,45,4,2475,Credit Card,4.4,Kolkata
+45,Jeans,Men,4619,9,2,8406.58,Debit Card,3.4,Delhi
+46,Shoes,Men,4852,34,3,9606.96,Wallet,3.9,Hyderabad
+47,Shorts,Kids,3525,5,5,16743.75,Wallet,4.4,Pune
+48,Shorts,Kids,2028,36,1,1297.92,Credit Card,4.2,Chennai
+49,Shorts,Kids,543,23,4,1672.44,UPI,4.9,Delhi
+50,Dress,Kids,4359,47,4,9241.08,Wallet,3.5,Pune
+51,Jacket,Women,2362,9,4,8597.68,Credit Card,4.5,Mumbai
+52,T-Shirt,Women,3549,5,3,10114.65,Credit Card,4.6,Kolkata
+53,Dress,Women,3170,31,5,10936.5,Cash on Delivery,3.1,Mumbai
+54,Sweater,Men,785,18,2,1287.4,UPI,3.7,Pune
+55,Shorts,Kids,4939,28,2,7112.16,Credit Card,3.8,Bangalore
+56,Jacket,Women,4410,9,4,16052.4,Wallet,4.4,Kolkata
+57,T-Shirt,Women,3827,40,3,6888.6,Wallet,3.2,Kolkata
+58,Jeans,Kids,2262,12,3,5971.68,Wallet,4.5,Delhi
+59,T-Shirt,Men,3555,32,2,4834.8,Wallet,3.1,Pune
+60,Jeans,Men,4492,8,5,20663.2,Cash on Delivery,3.4,Pune
+61,Dress,Women,4740,9,4,17253.6,UPI,4.4,Hyderabad
+62,Jeans,Kids,3537,36,5,11318.4,Debit Card,4.1,Delhi
+63,Shoes,Women,4545,5,1,4317.75,Credit Card,3.4,Chennai
+64,Dress,Women,655,47,4,1388.6,UPI,4.2,Hyderabad
+65,Jeans,Men,2100,8,2,3864,Wallet,3.2,Delhi
+66,Shorts,Women,872,9,1,793.52,Credit Card,3.5,Mumbai
+67,Shorts,Men,4782,18,4,15684.96,Cash on Delivery,3.5,Bangalore
+68,Jeans,Kids,4399,5,1,4179.05,Wallet,4.3,Bangalore
+69,T-Shirt,Men,4193,24,2,6373.36,Cash on Delivery,4.3,Chennai
+70,Sweater,Men,1884,22,3,4408.56,UPI,3.9,Hyderabad
+71,Jacket,Kids,1641,32,2,2231.76,UPI,3.7,Delhi
+72,Jacket,Women,4239,33,1,2840.13,Cash on Delivery,3.5,Hyderabad
+73,Shorts,Kids,4183,25,5,15686.25,Wallet,4.6,Delhi
+74,Jeans,Men,2791,33,3,5609.91,Credit Card,4,Hyderabad
+75,Dress,Women,770,32,4,2094.4,Debit Card,3.3,Hyderabad
+76,Sweater,Men,1957,10,3,5283.9,Debit Card,4.1,Mumbai
+77,Shorts,Kids,1571,50,1,785.5,UPI,3.4,Chennai
+78,Sweater,Men,3348,33,2,4486.32,UPI,4,Mumbai
+79,T-Shirt,Kids,589,35,3,1148.55,Debit Card,4.5,Mumbai
+80,Sweater,Men,4904,20,4,15692.8,Cash on Delivery,4.2,Bangalore
+81,Shoes,Kids,1856,37,5,5846.4,UPI,4.6,Bangalore
+82,T-Shirt,Men,4997,45,1,2748.35,Cash on Delivery,4.5,Delhi
+83,Dress,Women,1889,9,5,8594.95,UPI,4.4,Kolkata
+84,Jeans,Kids,3863,18,4,12670.64,UPI,4.7,Pune
+85,Shoes,Men,4979,34,2,6572.28,Debit Card,3.5,Chennai
+86,Jacket,Women,3122,44,3,5244.96,Debit Card,3.8,Mumbai
+87,Dress,Women,1942,10,1,1747.8,Debit Card,5,Pune
+88,Shoes,Kids,2883,14,4,9917.52,Debit Card,3.6,Delhi
+89,Jeans,Kids,3939,33,4,10556.52,Debit Card,3.1,Delhi
+90,Shoes,Kids,4365,20,1,3492,Debit Card,4.2,Mumbai
+91,Shoes,Kids,1280,14,4,4403.2,Debit Card,4.2,Delhi
+92,T-Shirt,Women,2559,19,4,8291.16,Debit Card,4.6,Bangalore
+93,T-Shirt,Men,2698,10,4,9712.8,Debit Card,4.5,Bangalore
+94,Jeans,Kids,2395,23,4,7376.6,Credit Card,3.6,Kolkata
+95,Sweater,Women,1188,44,3,1995.84,UPI,4.1,Mumbai
+96,T-Shirt,Women,2470,11,4,8793.2,Debit Card,3.4,Bangalore
+97,Jeans,Men,4785,46,2,5167.8,Debit Card,4.6,Chennai
+98,Dress,Men,661,17,1,548.63,Credit Card,3.5,Mumbai
+99,Sweater,Men,4908,15,4,16687.2,Wallet,4.7,Pune
+100,Shorts,Women,3820,17,4,12682.4,Wallet,4.7,Kolkata
+101,T-Shirt,Kids,2358,32,3,4810.32,Debit Card,3.6,Hyderabad
+102,Shoes,Men,1796,21,1,1418.84,Credit Card,4.2,Hyderabad
+103,Sweater,Men,4299,31,1,2966.31,Wallet,4.9,Kolkata
+104,Jacket,Men,3335,45,5,9171.25,Credit Card,4.8,Bangalore
+105,Shorts,Men,2456,43,4,5599.68,Cash on Delivery,4.6,Bangalore
+106,Jacket,Men,1968,30,5,6888,UPI,4.8,Delhi
+107,Jacket,Women,1006,33,3,2022.06,Credit Card,4.9,Kolkata
+108,Jacket,Men,812,38,3,1510.32,Debit Card,3.5,Pune
+109,Jacket,Kids,4860,10,3,13122,Wallet,4.6,Pune
+110,Sweater,Men,1113,43,5,3172.05,Wallet,3.2,Mumbai
+111,Shorts,Men,4496,47,2,4765.76,Credit Card,4.3,Mumbai
+112,T-Shirt,Kids,4461,33,3,8966.61,Debit Card,3.8,Chennai
+113,Dress,Men,3115,43,1,1775.55,Credit Card,4.8,Hyderabad
+114,Shorts,Men,3289,39,1,2006.29,UPI,4.3,Pune
+115,T-Shirt,Men,2789,7,1,2593.77,Wallet,3.5,Bangalore
+116,Shoes,Kids,3027,48,3,4722.12,Cash on Delivery,4.5,Bangalore
+117,Sweater,Kids,562,31,1,387.78,Cash on Delivery,4.6,Pune
+118,Shoes,Men,4394,32,1,2987.92,UPI,3.5,Kolkata
+119,Dress,Kids,4676,5,4,17768.8,Debit Card,4.8,Bangalore
+120,Jeans,Men,2562,37,5,8070.3,Debit Card,3.8,Kolkata
+121,Shoes,Kids,595,23,4,1832.6,Credit Card,3.1,Kolkata
+122,T-Shirt,Women,3686,22,2,5750.16,Cash on Delivery,3.3,Chennai
+123,Dress,Men,3817,47,4,8092.04,Credit Card,3.4,Delhi
+124,Sweater,Men,2311,42,3,4021.14,Credit Card,4.1,Kolkata
+125,Shoes,Men,4055,20,5,16220,UPI,3.9,Bangalore
+126,Shoes,Men,4382,24,2,6660.64,Credit Card,4.5,Chennai
+127,Sweater,Men,2765,15,4,9401,Debit Card,4.3,Mumbai
+128,Shoes,Men,1931,23,5,7434.35,Cash on Delivery,3.3,Mumbai
+129,Jacket,Men,1786,21,3,4232.82,UPI,3.6,Pune
+130,Dress,Kids,4488,32,4,12207.36,UPI,4.1,Hyderabad
+131,Shorts,Women,2763,23,4,8510.04,UPI,3.3,Kolkata
+132,Sweater,Men,1990,39,4,4855.6,UPI,4.6,Mumbai
+133,Shorts,Women,1019,22,1,794.82,UPI,4,Chennai
+134,Jacket,Women,1703,8,3,4700.28,UPI,3.9,Bangalore
+135,Sweater,Women,3661,5,3,10433.85,UPI,3.6,Delhi
+136,Jacket,Women,4462,27,2,6514.52,Debit Card,4.8,Mumbai
+137,Sweater,Men,732,5,1,695.4,Cash on Delivery,4.9,Kolkata
+138,T-Shirt,Women,2719,21,4,8592.04,Wallet,3.8,Bangalore
+139,T-Shirt,Kids,896,8,2,1648.64,Cash on Delivery,3.6,Bangalore
+140,Shoes,Men,2284,32,2,3106.24,Wallet,3.4,Pune
+141,Jacket,Men,4196,42,5,12168.4,UPI,4.7,Kolkata
+142,T-Shirt,Kids,4668,41,3,8262.36,Debit Card,4.1,Mumbai
+143,Jacket,Women,4362,15,5,18538.5,Credit Card,3.8,Hyderabad
+144,T-Shirt,Men,745,49,4,1519.8,UPI,4.8,Delhi
+145,Jeans,Women,3568,46,4,7706.88,Credit Card,3.2,Chennai
+146,Jacket,Women,1662,21,4,5251.92,Cash on Delivery,4.2,Kolkata
+147,Dress,Kids,1285,11,4,4574.6,Cash on Delivery,4.8,Bangalore
+148,T-Shirt,Women,3990,36,4,10214.4,Credit Card,3.8,Bangalore
+149,Jeans,Men,4804,18,1,3939.28,Debit Card,4.3,Chennai
+150,Shoes,Kids,2382,35,1,1548.3,UPI,4,Kolkata
+151,Sweater,Women,4704,21,4,14864.64,Cash on Delivery,3.7,Kolkata
+152,Dress,Women,723,34,1,477.18,UPI,4.8,Bangalore
+153,Jeans,Women,2802,15,4,9526.8,Debit Card,3.4,Bangalore
+154,Jacket,Kids,4421,36,5,14147.2,Debit Card,4.6,Chennai
+155,Sweater,Men,4666,31,3,9658.62,UPI,3.3,Bangalore
+156,Jeans,Women,1913,16,2,3213.84,Cash on Delivery,3.4,Chennai
+157,T-Shirt,Men,3625,30,4,10150,Wallet,3.9,Chennai
+158,Jeans,Men,4413,31,4,12179.88,Wallet,3,Bangalore
+159,Dress,Women,3292,18,5,13497.2,Cash on Delivery,4.9,Pune
+160,Shoes,Kids,2404,9,2,4375.28,Credit Card,3.6,Mumbai
+161,Jacket,Women,4552,38,2,5644.48,Wallet,3.9,Pune
+162,Jeans,Women,1100,30,5,3850,Credit Card,4.8,Bangalore
+163,Shoes,Kids,2962,42,3,5153.88,Debit Card,3.5,Chennai
+164,Jeans,Men,1536,30,1,1075.2,Cash on Delivery,4.4,Bangalore
+165,Shoes,Kids,3864,9,4,14064.96,UPI,4.2,Kolkata
+166,T-Shirt,Kids,4273,25,3,9614.25,UPI,3.7,Mumbai
+167,Shorts,Men,4922,24,5,18703.6,Cash on Delivery,4.5,Chennai
+168,T-Shirt,Kids,4046,41,4,9548.56,UPI,3.7,Hyderabad
+169,Jeans,Kids,4715,10,3,12730.5,Debit Card,3.6,Hyderabad
+170,Dress,Women,700,19,1,567,Debit Card,3,Bangalore
+171,Jeans,Kids,2451,23,1,1887.27,Credit Card,4,Hyderabad
+172,Dress,Men,4228,7,3,11796.12,Credit Card,4.5,Mumbai
+173,Sweater,Kids,823,35,3,1604.85,UPI,3,Mumbai
+174,Jacket,Men,1263,43,2,1439.82,Debit Card,3.4,Chennai
+175,Dress,Men,1494,32,1,1015.92,UPI,3.7,Hyderabad
+176,Sweater,Men,554,9,2,1008.28,Wallet,3.2,Chennai
+177,Dress,Kids,3942,7,5,18330.3,UPI,4.3,Mumbai
+178,Dress,Men,1578,6,5,7416.6,Debit Card,4.2,Delhi
+179,Dress,Kids,2356,35,3,4594.2,Cash on Delivery,4.4,Mumbai
+180,Dress,Kids,2970,25,4,8910,Credit Card,4.4,Kolkata
+181,Sweater,Women,1899,29,5,6741.45,Credit Card,4,Mumbai
+182,Jacket,Women,3415,18,4,11201.2,Debit Card,4,Mumbai
+183,Shoes,Kids,3464,21,3,8209.68,Cash on Delivery,3.2,Hyderabad
+184,Jeans,Men,4817,18,4,15799.76,Debit Card,3.9,Pune
+185,Shorts,Women,4146,27,3,9079.74,UPI,4.2,Delhi
+186,Shorts,Women,1885,27,5,6880.25,Debit Card,3.6,Mumbai
+187,Shoes,Women,3252,41,1,1918.68,UPI,4.7,Bangalore
+188,Sweater,Women,1281,8,5,5892.6,UPI,3.2,Chennai
+189,Jeans,Women,1537,13,4,5348.76,Cash on Delivery,4,Bangalore
+190,T-Shirt,Kids,2903,35,5,9434.75,UPI,4,Chennai
+191,Dress,Women,3033,20,1,2426.4,Credit Card,4.6,Kolkata
+192,T-Shirt,Women,4046,8,3,11166.96,UPI,4.4,Bangalore
+193,Shorts,Women,4029,44,1,2256.24,UPI,4.1,Pune
+194,Jeans,Men,1274,43,1,726.18,Cash on Delivery,4,Bangalore
+195,T-Shirt,Men,1915,25,5,7181.25,Cash on Delivery,3.2,Pune
+196,Shorts,Kids,3367,40,5,10101,Wallet,4.4,Pune
+197,Shorts,Kids,2308,21,5,9116.6,UPI,3.1,Bangalore
+198,Jeans,Kids,2890,29,4,8207.6,Wallet,3.5,Mumbai
+199,Jacket,Men,3841,45,1,2112.55,UPI,4.7,Hyderabad
+200,Shorts,Men,2233,37,5,7033.95,Wallet,3.3,Chennai
+201,Jeans,Women,863,42,1,500.54,Wallet,4.3,Chennai
+202,Jeans,Women,754,9,3,2058.42,UPI,3.9,Mumbai
+203,Jacket,Men,4923,19,3,11962.89,Credit Card,3.2,Chennai
+204,Jeans,Kids,3406,7,1,3167.58,Wallet,3.4,Kolkata
+205,Sweater,Kids,1237,49,5,3154.35,UPI,3.6,Hyderabad
+206,T-Shirt,Kids,2895,46,4,6253.2,Wallet,4,Delhi
+207,Jeans,Women,2431,47,4,5153.72,Debit Card,4.6,Mumbai
+208,Dress,Kids,4657,10,4,16765.2,Cash on Delivery,3.4,Bangalore
+209,Shorts,Kids,1036,45,4,2279.2,Credit Card,3.6,Hyderabad
+210,Jacket,Women,1505,42,1,872.9,UPI,4.8,Hyderabad
+211,T-Shirt,Kids,816,28,1,587.52,Debit Card,3.6,Bangalore
+212,Dress,Women,4943,10,1,4448.7,Wallet,3.6,Pune
+213,T-Shirt,Kids,1420,45,3,2343,Cash on Delivery,3.2,Chennai
+214,Jacket,Kids,4134,41,3,7317.18,Credit Card,3.9,Chennai
+215,T-Shirt,Women,1545,21,3,3661.65,Credit Card,3,Mumbai
+216,Jeans,Kids,3887,50,3,5830.5,Credit Card,4,Hyderabad
+217,Jacket,Women,2197,41,2,2592.46,Cash on Delivery,4.7,Kolkata
+218,Jeans,Kids,4381,10,2,7885.8,Debit Card,4.5,Kolkata
+219,Shoes,Women,3124,36,2,3998.72,Credit Card,4.9,Delhi
+220,T-Shirt,Women,2800,37,1,1764,Debit Card,4,Chennai
+221,Shoes,Kids,3892,41,5,11481.4,Wallet,4.1,Chennai
+222,Jeans,Men,991,13,5,4310.85,Wallet,3.2,Pune
+223,Dress,Kids,560,27,4,1635.2,UPI,3,Delhi
+224,Shoes,Men,4246,6,1,3991.24,Cash on Delivery,3.4,Kolkata
+225,Shorts,Men,1914,12,5,8421.6,Credit Card,4.6,Delhi
+226,Shoes,Women,3951,31,3,8178.57,UPI,3.2,Mumbai
+227,Jeans,Women,4239,35,5,13776.75,UPI,3.3,Pune
+228,Dress,Men,2658,15,1,2259.3,Debit Card,4,Delhi
+229,Sweater,Kids,708,44,5,1982.4,Debit Card,3.8,Kolkata
+230,Shoes,Women,2291,10,5,10309.5,UPI,3.8,Hyderabad
+231,Dress,Kids,4326,8,4,15919.68,Wallet,3.3,Hyderabad
+232,Dress,Men,3319,49,5,8463.45,Credit Card,4.4,Bangalore
+233,Shoes,Kids,3791,30,2,5307.4,Wallet,4.9,Pune
+234,Shorts,Men,2115,48,5,5499,Wallet,4.9,Pune
+235,T-Shirt,Kids,1846,15,4,6276.4,Cash on Delivery,3.2,Delhi
+236,Shorts,Kids,3176,8,3,8765.76,Credit Card,4.8,Pune
+237,Jacket,Kids,1862,18,2,3053.68,Debit Card,4.7,Pune
+238,T-Shirt,Men,2740,30,2,3836,Debit Card,3.8,Chennai
+239,Shorts,Men,4220,34,2,5570.4,UPI,3.9,Kolkata
+240,Jacket,Men,3102,12,1,2729.76,Credit Card,4.7,Chennai
+241,Jeans,Men,711,48,1,369.72,Credit Card,4.4,Bangalore
+242,T-Shirt,Women,4438,12,2,7810.88,Wallet,3.5,Pune
+243,Shoes,Women,2866,23,1,2206.82,Cash on Delivery,4.5,Kolkata
+244,Jacket,Men,4986,22,5,19445.4,Cash on Delivery,3.8,Hyderabad
+245,T-Shirt,Women,4156,36,4,10639.36,Debit Card,4.8,Pune
+246,Shoes,Women,4595,46,2,4962.6,Debit Card,3.1,Delhi
+247,T-Shirt,Kids,3978,25,2,5967,Cash on Delivery,4.3,Chennai
+248,Dress,Women,1961,44,1,1098.16,UPI,3.5,Pune
+249,Dress,Men,1191,21,1,940.89,Debit Card,4.3,Chennai
+250,Shoes,Women,2015,10,3,5440.5,UPI,3.7,Chennai
+251,Sweater,Women,4831,32,2,6570.16,Wallet,3.5,Mumbai
+252,Shorts,Kids,1480,13,2,2575.2,Wallet,4.1,Kolkata
+253,Dress,Kids,1930,49,1,984.3,Cash on Delivery,3.3,Kolkata
+254,Jacket,Women,2906,32,4,7904.32,Credit Card,3.7,Bangalore
+255,Sweater,Women,3570,49,5,9103.5,Wallet,4.5,Kolkata
+256,Jeans,Kids,2311,48,3,3605.16,Wallet,4.4,Delhi
+257,Dress,Women,4464,7,4,16606.08,Wallet,3.7,Chennai
+258,Shorts,Kids,4454,20,3,10689.6,Cash on Delivery,4.6,Pune
+259,Sweater,Women,4623,41,5,13637.85,UPI,4.1,Kolkata
+260,Sweater,Men,3643,41,4,8597.48,Wallet,5,Pune
+261,Sweater,Men,2875,45,1,1581.25,Cash on Delivery,3.8,Delhi
+262,Jeans,Kids,4798,31,5,16553.1,Cash on Delivery,3.4,Hyderabad
+263,Jeans,Women,761,23,5,2929.85,Cash on Delivery,4.4,Pune
+264,Jacket,Women,1959,50,4,3918,Debit Card,3.5,Pune
+265,Shorts,Men,4562,46,5,12317.4,Wallet,3.3,Hyderabad
+266,Shoes,Women,2338,41,4,5517.68,UPI,3.8,Chennai
+267,Jacket,Kids,2566,12,2,4516.16,Cash on Delivery,4.1,Kolkata
+268,Sweater,Men,3449,29,1,2448.79,Debit Card,3.6,Pune
+269,Shorts,Men,2944,37,2,3709.44,Wallet,3.2,Delhi
+270,Sweater,Women,4242,31,2,5853.96,Wallet,3.7,Pune
+271,Dress,Women,2334,39,2,2847.48,Cash on Delivery,3.5,Kolkata
+272,Jeans,Kids,4968,39,3,9091.44,Wallet,4.9,Kolkata
+273,Sweater,Women,769,25,5,2883.75,Wallet,3.7,Pune
+274,Dress,Kids,3765,48,1,1957.8,UPI,4.9,Mumbai
+275,Jacket,Men,1900,31,1,1311,Credit Card,3.2,Pune
+276,Shorts,Kids,2528,6,2,4752.64,Cash on Delivery,4.7,Bangalore
+277,Shoes,Men,3579,14,3,9233.82,Debit Card,3.4,Bangalore
+278,Dress,Men,530,21,3,1256.1,Credit Card,4.5,Delhi
+279,Jacket,Men,754,34,2,995.28,Wallet,3,Delhi
+280,T-Shirt,Women,2057,26,5,7610.9,UPI,4.4,Pune
+281,Dress,Men,1675,23,4,5159,UPI,4.2,Bangalore
+282,Dress,Kids,2592,20,2,4147.2,Debit Card,3.4,Delhi
+283,Jeans,Women,1166,30,1,816.2,Wallet,4.2,Delhi
+284,Shoes,Women,3802,26,3,8440.44,Debit Card,3,Chennai
+285,Shorts,Women,2514,44,1,1407.84,Debit Card,3.1,Hyderabad
+286,Shorts,Women,4496,17,5,18658.4,Debit Card,4.7,Kolkata
+287,Dress,Men,3629,45,2,3991.9,Debit Card,3.4,Delhi
+288,Jacket,Kids,4696,11,3,12538.32,Credit Card,4.5,Chennai
+289,Sweater,Women,1586,37,4,3996.72,UPI,3.8,Chennai
+290,T-Shirt,Men,4599,14,4,15820.56,Cash on Delivery,4.2,Pune
+291,Shoes,Women,603,35,1,391.95,Wallet,3.2,Mumbai
+292,Jeans,Women,2408,39,5,7344.4,Cash on Delivery,4.3,Bangalore
+293,Jacket,Kids,2623,38,2,3252.52,UPI,3.8,Mumbai
+294,Jeans,Men,2766,36,1,1770.24,Wallet,4.8,Delhi
+295,Shoes,Kids,3356,41,4,7920.16,Wallet,4,Pune
+296,Jacket,Women,1807,5,5,8583.25,Wallet,3.4,Hyderabad
+297,Dress,Men,739,9,3,2017.47,UPI,3.7,Delhi
+298,Shoes,Women,1079,37,4,2719.08,Debit Card,4.6,Pune
+299,Shorts,Women,2389,21,2,3774.62,Cash on Delivery,4.8,Chennai
+300,Jeans,Women,4438,17,4,14734.16,Credit Card,3.7,Chennai
+301,Shoes,Kids,1877,23,3,4335.87,Credit Card,3.9,Bangalore
+302,Jacket,Women,2900,14,5,12470,Cash on Delivery,3.1,Bangalore
+303,Shorts,Men,2276,48,4,4734.08,UPI,4.4,Pune
+304,Shorts,Women,993,35,1,645.45,Wallet,4.8,Mumbai
+305,Shoes,Kids,2757,12,2,4852.32,Cash on Delivery,4.5,Hyderabad
+306,Jeans,Women,1984,24,2,3015.68,Wallet,4,Delhi
+307,Jeans,Kids,1154,26,5,4269.8,Credit Card,4.6,Mumbai
+308,Jeans,Men,4091,33,1,2740.97,Debit Card,3.8,Kolkata
+309,T-Shirt,Women,1073,27,5,3916.45,UPI,5,Chennai
+310,Jeans,Men,1502,21,4,4746.32,Wallet,4.9,Kolkata
+311,Jeans,Men,3850,19,1,3118.5,Cash on Delivery,4,Hyderabad
+312,Jacket,Men,1308,22,3,3060.72,Cash on Delivery,3.9,Kolkata
+313,Jacket,Men,2094,50,2,2094,UPI,3.2,Mumbai
+314,Dress,Kids,671,14,1,577.06,Cash on Delivery,3.9,Chennai
+315,Jacket,Kids,2017,12,1,1774.96,Debit Card,4.7,Delhi
+316,Sweater,Kids,4344,39,3,7949.52,Cash on Delivery,4.3,Chennai
+317,T-Shirt,Women,2009,15,2,3415.3,Debit Card,4.3,Hyderabad
+318,Shorts,Women,2301,24,2,3497.52,Wallet,4.2,Pune
+319,Jacket,Women,4405,46,1,2378.7,Cash on Delivery,3,Bangalore
+320,Shorts,Women,1562,21,5,6169.9,UPI,4.5,Pune
+321,T-Shirt,Women,3482,49,5,8879.1,Debit Card,4.8,Bangalore
+322,Shoes,Men,4958,40,3,8924.4,UPI,3.6,Chennai
+323,Shoes,Kids,1569,31,1,1082.61,Wallet,4.8,Bangalore
+324,Dress,Women,1533,27,1,1119.09,Debit Card,4.6,Kolkata
+325,Shoes,Men,1173,31,3,2428.11,Cash on Delivery,4.3,Delhi
+326,Sweater,Kids,2345,48,4,4877.6,Credit Card,4,Hyderabad
+327,Jacket,Women,4488,47,2,4757.28,Credit Card,4.1,Chennai
+328,Jeans,Kids,4509,39,2,5500.98,UPI,3.2,Mumbai
+329,Sweater,Kids,4165,6,3,11745.3,Wallet,3.9,Hyderabad
+330,Sweater,Kids,3543,38,5,10983.3,Wallet,3.3,Kolkata
+331,Jacket,Men,755,17,2,1253.3,Credit Card,3.7,Bangalore
+332,Shoes,Kids,1036,32,3,2113.44,Debit Card,4.3,Pune
+333,Shoes,Men,4584,10,1,4125.6,Credit Card,4.7,Kolkata
+334,Sweater,Kids,3123,18,5,12804.3,UPI,4.2,Hyderabad
+335,Jeans,Kids,858,37,2,1081.08,Cash on Delivery,4.9,Mumbai
+336,Shorts,Kids,3241,22,4,10111.92,Debit Card,4.7,Delhi
+337,Dress,Women,2092,46,3,3389.04,Wallet,4.9,Bangalore
+338,Shoes,Kids,1460,17,5,6059,Credit Card,4.4,Mumbai
+339,Shoes,Men,3386,31,5,11681.7,Credit Card,4.2,Delhi
+340,Shoes,Women,3488,24,2,5301.76,UPI,5,Bangalore
+341,Jacket,Women,2374,14,3,6124.92,Cash on Delivery,3.9,Delhi
+342,Shorts,Men,2189,43,2,2495.46,Debit Card,3,Kolkata
+343,Dress,Women,1376,48,4,2862.08,Debit Card,5,Hyderabad
+344,Jacket,Women,1519,8,2,2794.96,Wallet,3.8,Kolkata
+345,Jacket,Women,1810,44,3,3040.8,Credit Card,4.5,Mumbai
+346,Dress,Women,2790,31,4,7700.4,Cash on Delivery,3.7,Delhi
+347,Dress,Men,2080,29,5,7384,Credit Card,3.8,Delhi
+348,Dress,Men,4949,40,3,8908.2,Cash on Delivery,4,Bangalore
+349,Jacket,Women,4984,38,5,15450.4,Credit Card,4.4,Pune
+350,Sweater,Women,1267,34,1,836.22,Credit Card,3.9,Hyderabad
+351,Dress,Women,2378,49,2,2425.56,Debit Card,3.1,Chennai
+352,Shorts,Kids,2466,24,4,7496.64,Credit Card,3.8,Hyderabad
+353,T-Shirt,Men,3783,5,2,7187.7,Credit Card,3.8,Bangalore
+354,Jacket,Kids,2082,21,5,8223.9,UPI,4.8,Delhi
+355,Shorts,Kids,979,19,4,3171.96,Cash on Delivery,4.1,Chennai
+356,T-Shirt,Kids,2712,42,2,3145.92,Debit Card,4.2,Hyderabad
+357,Shoes,Women,2883,44,3,4843.44,Cash on Delivery,4.3,Mumbai
+358,Jacket,Men,2816,44,1,1576.96,Debit Card,4.6,Bangalore
+359,Jacket,Women,2604,33,5,8723.4,Debit Card,3.3,Mumbai
+360,Sweater,Kids,3205,31,3,6634.35,UPI,3.4,Delhi
+361,Jacket,Men,533,45,5,1465.75,Cash on Delivery,4.2,Chennai
+362,Jacket,Kids,4327,26,3,9605.94,UPI,4.6,Kolkata
+363,Jeans,Women,3805,41,2,4489.9,Cash on Delivery,3.7,Chennai
+364,Sweater,Women,926,42,2,1074.16,Debit Card,4.7,Bangalore
+365,Dress,Women,2162,50,1,1081,Wallet,4.6,Chennai
+366,Shorts,Women,1007,12,1,886.16,UPI,3.1,Delhi
+367,Jacket,Kids,2618,38,1,1623.16,UPI,4.8,Bangalore
+368,Shoes,Men,1493,50,2,1493,UPI,3.6,Bangalore
+369,Dress,Men,2104,45,4,4628.8,Credit Card,4.8,Hyderabad
+370,T-Shirt,Kids,4162,40,1,2497.2,Cash on Delivery,4.2,Pune
+371,Shorts,Women,2306,28,3,4980.96,UPI,4.1,Mumbai
+372,Dress,Men,2796,15,5,11883,UPI,4.4,Hyderabad
+373,T-Shirt,Kids,3654,5,4,13885.2,Wallet,3.5,Delhi
+374,Jacket,Men,3238,29,2,4597.96,UPI,3.9,Pune
+375,Shorts,Women,1961,5,5,9314.75,Wallet,4.3,Delhi
+376,T-Shirt,Women,4059,44,2,4546.08,Credit Card,3.3,Pune
+377,Jacket,Men,4214,34,2,5562.48,Wallet,4.2,Pune
+378,Jeans,Kids,3181,14,2,5471.32,Debit Card,4.2,Pune
+379,Sweater,Kids,1202,29,1,853.42,Debit Card,3,Mumbai
+380,Dress,Kids,2815,23,4,8670.2,Wallet,4,Delhi
+381,Shoes,Kids,4797,21,1,3789.63,Cash on Delivery,3.1,Pune
+382,Shorts,Men,1582,28,4,4556.16,UPI,3.1,Chennai
+383,Jeans,Women,3531,25,1,2648.25,UPI,4.4,Pune
+384,Sweater,Women,3267,12,4,11499.84,UPI,4.4,Kolkata
+385,T-Shirt,Kids,4365,18,2,7158.6,Wallet,5,Hyderabad
+386,Sweater,Kids,3882,23,2,5978.28,UPI,3.5,Kolkata
+387,Sweater,Kids,1411,8,2,2596.24,Debit Card,4.2,Pune
+388,Sweater,Women,3319,48,3,5177.64,Debit Card,3.7,Bangalore
+389,Sweater,Women,3515,29,4,9982.6,Wallet,3.8,Kolkata
+390,Jeans,Men,4595,39,3,8408.85,Cash on Delivery,4.6,Mumbai
+391,Shoes,Men,1036,41,1,611.24,Credit Card,4,Delhi
+392,Jacket,Kids,1609,9,1,1464.19,Debit Card,4.8,Kolkata
+393,Jeans,Kids,796,7,1,740.28,Cash on Delivery,4.7,Mumbai
+394,Jacket,Men,2168,19,1,1756.08,Cash on Delivery,4.5,Delhi
+395,Dress,Men,4912,44,1,2750.72,Credit Card,3.2,Chennai
+396,Shorts,Men,2753,29,4,7818.52,UPI,3.8,Kolkata
+397,Dress,Kids,1566,11,3,4181.22,Wallet,3.9,Chennai
+398,Dress,Men,3569,41,2,4211.42,UPI,4.9,Mumbai
+399,Shorts,Men,2205,12,1,1940.4,Credit Card,3.2,Bangalore
+400,Jacket,Women,4699,5,4,17856.2,Cash on Delivery,4.5,Hyderabad
+401,Sweater,Kids,2001,50,3,3001.5,Debit Card,4.3,Pune
+402,Shoes,Men,4999,31,4,13797.24,Wallet,4.1,Pune
+403,T-Shirt,Men,2682,48,5,6973.2,UPI,4.7,Kolkata
+404,Shoes,Kids,2311,39,3,4229.13,Debit Card,3.9,Chennai
+405,Jacket,Women,4305,33,4,11537.4,Cash on Delivery,5,Chennai
+406,Jacket,Men,1854,13,3,4838.94,Wallet,3.2,Hyderabad
+407,T-Shirt,Women,3808,17,2,6321.28,Debit Card,4.6,Bangalore
+408,Shoes,Kids,2916,50,1,1458,Credit Card,4.5,Chennai
+409,Shoes,Women,3688,17,5,15305.2,Cash on Delivery,3.7,Pune
+410,Shoes,Men,1003,20,4,3209.6,Debit Card,3.9,Mumbai
+411,Shorts,Kids,1088,45,2,1196.8,Credit Card,3.5,Bangalore
+412,Shoes,Men,2962,16,2,4976.16,Credit Card,3.6,Chennai
+413,Shorts,Men,3824,23,4,11777.92,Wallet,4.9,Chennai
+414,T-Shirt,Men,1452,44,2,1626.24,Debit Card,4.7,Chennai
+415,Jacket,Kids,3639,43,1,2074.23,UPI,4.9,Mumbai
+416,Jacket,Women,2055,14,2,3534.6,Debit Card,4.6,Chennai
+417,Jacket,Men,1343,30,1,940.1,Debit Card,3.8,Bangalore
+418,Sweater,Kids,2840,17,3,7071.6,Wallet,3.5,Mumbai
+419,Sweater,Women,1751,27,2,2556.46,Credit Card,4.5,Mumbai
+420,Shorts,Men,1624,48,2,1688.96,Debit Card,3.5,Chennai
+421,Jacket,Women,1256,24,1,954.56,Credit Card,4.5,Bangalore
+422,Shoes,Kids,562,28,1,404.64,UPI,3.5,Kolkata
+423,Jacket,Men,667,31,2,920.46,UPI,3.9,Pune
+424,Shoes,Women,2842,43,5,8099.7,Wallet,3,Pune
+425,Jacket,Kids,3500,10,4,12600,Wallet,4.1,Bangalore
+426,Shoes,Men,3378,29,4,9593.52,UPI,3.8,Delhi
+427,Dress,Kids,620,29,5,2201,Debit Card,4,Bangalore
+428,Jeans,Men,3860,17,4,12815.2,Cash on Delivery,3.9,Bangalore
+429,Sweater,Women,4449,30,1,3114.3,Credit Card,4.3,Kolkata
+430,Jeans,Women,4442,35,5,14436.5,Cash on Delivery,4.3,Delhi
+431,Jeans,Kids,3835,33,2,5138.9,Cash on Delivery,3.9,Pune
+432,Shoes,Men,566,30,1,396.2,Cash on Delivery,4.7,Kolkata
+433,Dress,Men,1362,12,3,3595.68,Credit Card,4.1,Hyderabad
+434,Shorts,Women,2722,36,4,6968.32,Cash on Delivery,3.9,Mumbai
+435,T-Shirt,Women,4782,31,4,13198.32,Cash on Delivery,4.7,Kolkata
+436,Dress,Men,2924,21,1,2309.96,UPI,4.6,Bangalore
+437,Jacket,Men,1943,14,4,6683.92,Wallet,4.8,Chennai
+438,Shoes,Men,1984,5,1,1884.8,Cash on Delivery,4.7,Pune
+439,Shoes,Women,1783,13,3,4653.63,Cash on Delivery,4.6,Delhi
+440,Shorts,Kids,3477,46,4,7510.32,UPI,3.9,Pune
+441,Dress,Kids,2144,47,4,4545.28,Cash on Delivery,3.6,Kolkata
+442,Shoes,Men,2493,14,3,6431.94,UPI,3.6,Kolkata
+443,Shorts,Women,2258,13,5,9822.3,Wallet,4,Pune
+444,Sweater,Women,4878,6,4,18341.28,Wallet,4.7,Pune
+445,Dress,Kids,1037,15,4,3525.8,Debit Card,4.7,Chennai
+446,Dress,Kids,3171,26,5,11732.7,Wallet,4.6,Chennai
+447,Shoes,Kids,1861,8,5,8560.6,UPI,4.4,Chennai
+448,Sweater,Women,3485,13,2,6063.9,Cash on Delivery,4.3,Mumbai
+449,Jacket,Kids,1123,31,4,3099.48,Cash on Delivery,3.1,Chennai
+450,Shorts,Men,4807,32,4,13075.04,Debit Card,4.4,Mumbai
+451,Jacket,Men,4217,24,3,9614.76,Debit Card,4.4,Bangalore
+452,Shoes,Women,4205,19,3,10218.15,UPI,4.6,Hyderabad
+453,Shorts,Men,2072,9,3,5656.56,UPI,4.8,Kolkata
+454,Dress,Kids,1421,20,3,3410.4,Wallet,3.5,Kolkata
+455,T-Shirt,Men,2284,34,5,7537.2,UPI,4,Mumbai
+456,Shoes,Women,1116,29,1,792.36,UPI,3.9,Hyderabad
+457,Jeans,Men,3168,20,1,2534.4,Wallet,4.6,Mumbai
+458,Jeans,Women,1666,23,2,2565.64,Debit Card,4.5,Hyderabad
+459,Jacket,Kids,1160,28,1,835.2,Wallet,3.6,Mumbai
+460,Dress,Women,4575,31,1,3156.75,UPI,3.7,Hyderabad
+461,Jacket,Women,4412,41,1,2603.08,Credit Card,4.8,Kolkata
+462,Jacket,Men,1035,11,5,4605.75,Wallet,3.4,Delhi
+463,Jeans,Women,3069,24,2,4664.88,Wallet,4.7,Chennai
+464,Shoes,Kids,2808,8,3,7750.08,Cash on Delivery,3.9,Mumbai
+465,Jacket,Kids,674,46,4,1455.84,UPI,3.5,Pune
+466,Jacket,Kids,4340,48,4,9027.2,Credit Card,4.5,Mumbai
+467,Jacket,Women,2656,47,1,1407.68,Credit Card,3.2,Kolkata
+468,Dress,Men,1958,9,1,1781.78,Debit Card,4.6,Mumbai
+469,Dress,Kids,3544,27,1,2587.12,Cash on Delivery,3.7,Hyderabad
+470,Shoes,Women,3063,10,1,2756.7,Cash on Delivery,3.7,Bangalore
+471,Dress,Women,1158,44,3,1945.44,Cash on Delivery,4.9,Delhi
+472,Jeans,Kids,3672,50,4,7344,Credit Card,3.1,Pune
+473,Shoes,Kids,3913,39,5,11934.65,Debit Card,3.8,Pune
+474,Dress,Women,2710,17,2,4498.6,UPI,4.6,Delhi
+475,Shorts,Kids,1552,50,4,3104,Debit Card,3.4,Chennai
+476,Jacket,Women,2168,25,3,4878,Wallet,4.6,Chennai
+477,T-Shirt,Men,1880,35,4,4888,Wallet,3.3,Kolkata
+478,Shorts,Kids,2470,33,4,6619.6,Debit Card,4.7,Delhi
+479,Jacket,Men,534,38,2,662.16,Credit Card,4.1,Mumbai
+480,T-Shirt,Men,4919,40,4,11805.6,Cash on Delivery,3.1,Hyderabad
+481,Jeans,Kids,1995,22,2,3112.2,Credit Card,4.1,Chennai
+482,T-Shirt,Men,806,8,1,741.52,Debit Card,5,Delhi
+483,T-Shirt,Women,2980,20,1,2384,Wallet,4.3,Delhi
+484,Shorts,Kids,2904,23,5,11180.4,Wallet,4.1,Chennai
+485,Shorts,Kids,1157,40,2,1388.4,Debit Card,3.3,Kolkata
+486,Jacket,Men,1091,22,4,3403.92,Credit Card,4.3,Pune
+487,Shoes,Kids,754,9,4,2744.56,Debit Card,4.1,Bangalore
+488,Jacket,Kids,2974,25,1,2230.5,Debit Card,3.4,Chennai
+489,Shoes,Kids,3553,14,5,15277.9,Debit Card,4.4,Pune
+490,Dress,Kids,4922,41,4,11615.92,Debit Card,3.5,Hyderabad
+491,Sweater,Women,3809,41,3,6741.93,Credit Card,4.6,Hyderabad
+492,Shorts,Kids,4039,30,3,8481.9,Credit Card,3.8,Delhi
+493,Sweater,Kids,1765,39,1,1076.65,UPI,4.5,Pune
+494,Jeans,Men,1980,28,1,1425.6,Debit Card,3.1,Delhi
+495,Dress,Men,2086,43,1,1189.02,UPI,3.5,Kolkata
+496,Shorts,Women,4253,27,4,12418.76,Wallet,3.8,Hyderabad
+497,Jeans,Kids,2722,39,2,3320.84,Cash on Delivery,4.9,Hyderabad
+498,Dress,Women,917,46,2,990.36,Wallet,3.3,Bangalore
+499,Shorts,Women,742,37,3,1402.38,Wallet,3.8,Delhi
+500,T-Shirt,Men,2193,21,4,6929.88,Debit Card,3.1,Bangalore
+501,Jeans,Kids,774,9,2,1408.68,Cash on Delivery,3.4,Kolkata
+502,Jeans,Kids,2496,17,1,2071.68,Debit Card,3.1,Chennai
+503,T-Shirt,Men,3897,34,3,7716.06,Wallet,4.1,Bangalore
+504,Shoes,Men,4823,36,3,9260.16,Debit Card,4.4,Pune
+505,Shoes,Women,3752,29,2,5327.84,Credit Card,4.4,Delhi
+506,Shorts,Women,4724,50,1,2362,Wallet,4.7,Pune
+507,Dress,Women,750,17,3,1867.5,Debit Card,3.1,Pune
+508,Dress,Kids,2363,39,1,1441.43,Credit Card,4.6,Kolkata
+509,Shorts,Kids,2003,47,3,3184.77,Debit Card,4.7,Pune
+510,Jacket,Women,4783,13,5,20806.05,Debit Card,3.3,Kolkata
+511,Dress,Men,1525,21,4,4819,UPI,4.9,Bangalore
+512,Sweater,Kids,1225,44,2,1372,Credit Card,4.9,Hyderabad
+513,T-Shirt,Women,1770,17,5,7345.5,Debit Card,4.3,Delhi
+514,Sweater,Kids,4600,43,2,5244,Wallet,3.2,Hyderabad
+515,Dress,Men,3662,7,4,13622.64,Debit Card,4.3,Chennai
+516,Jeans,Kids,691,36,5,2211.2,Cash on Delivery,3.6,Mumbai
+517,Shoes,Men,1999,32,3,4077.96,Wallet,4.8,Mumbai
+518,Jeans,Kids,3315,10,5,14917.5,Credit Card,3.3,Pune
+519,T-Shirt,Kids,1792,35,1,1164.8,UPI,4,Chennai
+520,Shorts,Kids,3286,44,1,1840.16,UPI,3.1,Delhi
+521,Shorts,Men,1509,26,2,2233.32,Debit Card,4.3,Pune
+522,Shoes,Men,1033,8,2,1900.72,Credit Card,3.1,Chennai
+523,Dress,Men,3758,17,5,15595.7,Wallet,4.9,Chennai
+524,T-Shirt,Men,728,13,1,633.36,Cash on Delivery,4.7,Bangalore
+525,Shoes,Women,3028,46,1,1635.12,Debit Card,3.5,Bangalore
+526,Jeans,Women,1116,46,1,602.64,Cash on Delivery,4.1,Pune
+527,Dress,Women,873,9,4,3177.72,Cash on Delivery,4.6,Bangalore
+528,Shorts,Women,3799,36,5,12156.8,Credit Card,3.3,Pune
+529,Shoes,Kids,3002,30,2,4202.8,Cash on Delivery,3.5,Delhi
+530,Shorts,Kids,557,11,4,1982.92,Wallet,4.6,Pune
+531,Dress,Women,1211,32,1,823.48,Credit Card,4,Delhi
+532,Shorts,Women,3672,49,5,9363.6,Cash on Delivery,4.2,Pune
+533,T-Shirt,Kids,3244,11,5,14435.8,Wallet,3.6,Mumbai
+534,Shorts,Kids,3977,24,5,15112.6,Debit Card,4.3,Pune
+535,Jeans,Kids,4009,45,5,11024.75,Cash on Delivery,4.3,Delhi
+536,Shorts,Men,4149,43,5,11824.65,UPI,3.6,Bangalore
+537,Shoes,Women,4673,43,3,7990.83,Wallet,3.9,Bangalore
+538,T-Shirt,Men,4291,16,2,7208.88,Wallet,3.4,Delhi
+539,Jeans,Men,3402,9,3,9287.46,Wallet,4.3,Pune
+540,Dress,Kids,1857,9,5,8449.35,Debit Card,3.6,Bangalore
+541,Shoes,Kids,2333,22,2,3639.48,UPI,4.2,Chennai
+542,Jeans,Women,3708,19,1,3003.48,Wallet,4.2,Mumbai
+543,T-Shirt,Women,4458,7,4,16583.76,Cash on Delivery,5,Delhi
+544,Shorts,Women,1397,18,4,4582.16,Debit Card,3.6,Chennai
+545,Jeans,Kids,2746,24,4,8347.84,Cash on Delivery,3.8,Hyderabad
+546,Shoes,Women,3491,7,4,12986.52,Debit Card,4.8,Bangalore
+547,Jacket,Men,1546,20,2,2473.6,Wallet,3.1,Mumbai
+548,Shoes,Women,2762,27,3,6048.78,Cash on Delivery,3.7,Pune
+549,Shoes,Men,4667,12,1,4106.96,Debit Card,4.2,Delhi
+550,Shorts,Kids,4808,28,4,13847.04,UPI,3.6,Hyderabad
+551,Shorts,Men,3057,20,2,4891.2,Wallet,3.3,Delhi
+552,T-Shirt,Kids,4584,37,4,11551.68,Debit Card,5,Kolkata
+553,Sweater,Kids,4556,25,5,17085,UPI,4.9,Pune
+554,Sweater,Women,1305,17,5,5415.75,Cash on Delivery,4,Kolkata
+555,Jacket,Women,3486,18,4,11434.08,Credit Card,4.9,Mumbai
+556,Shorts,Men,3517,14,5,15123.1,UPI,3.6,Kolkata
+557,T-Shirt,Kids,1061,12,3,2801.04,Wallet,4.7,Mumbai
+558,Shorts,Kids,3952,38,3,7350.72,Cash on Delivery,3.5,Bangalore
+559,Dress,Women,2799,36,5,8956.8,Cash on Delivery,4,Bangalore
+560,Sweater,Kids,3458,31,1,2386.02,Cash on Delivery,3.9,Delhi
+561,Shorts,Men,4466,10,1,4019.4,Debit Card,3.1,Pune
+562,Dress,Men,4563,37,5,14373.45,Debit Card,4.7,Mumbai
+563,Dress,Women,3179,26,2,4704.92,Credit Card,3.2,Hyderabad
+564,Shorts,Men,3828,15,4,13015.2,Cash on Delivery,3.4,Delhi
+565,Shoes,Men,788,5,1,748.6,UPI,3.7,Chennai
+566,Jacket,Kids,4958,12,3,13089.12,Wallet,4.7,Pune
+567,Jacket,Men,2273,20,5,9092,UPI,4.1,Kolkata
+568,Jacket,Women,3375,24,3,7695,Cash on Delivery,3.7,Hyderabad
+569,Shoes,Men,1818,11,2,3236.04,UPI,4.3,Chennai
+570,Shorts,Men,4105,14,2,7060.6,Cash on Delivery,3.5,Mumbai
+571,Shorts,Women,2505,9,2,4559.1,Cash on Delivery,4.1,Delhi
+572,T-Shirt,Kids,4972,28,3,10739.52,Credit Card,4.6,Delhi
+573,Dress,Men,889,35,1,577.85,Credit Card,4.3,Pune
+574,Shorts,Men,4887,15,1,4153.95,Debit Card,4.9,Bangalore
+575,Jeans,Women,4776,43,3,8166.96,Cash on Delivery,3.9,Bangalore
+576,Shoes,Men,526,11,5,2340.7,Credit Card,4.7,Mumbai
+577,Sweater,Women,1427,29,2,2026.34,Credit Card,3.6,Mumbai
+578,Shorts,Kids,1107,23,3,2557.17,UPI,3.3,Bangalore
+579,Sweater,Men,2336,34,3,4625.28,Debit Card,4.7,Chennai
+580,Shorts,Men,3709,18,3,9124.14,Cash on Delivery,5,Bangalore
+581,Jeans,Kids,4641,9,3,12669.93,Credit Card,3.3,Bangalore
+582,Sweater,Women,4134,13,1,3596.58,Wallet,4.9,Mumbai
+583,Jeans,Women,2024,41,1,1194.16,Debit Card,4.2,Kolkata
+584,Shoes,Women,3546,8,3,9786.96,Credit Card,3.5,Delhi
+585,Jeans,Kids,3650,36,4,9344,Wallet,4.1,Kolkata
+586,Jeans,Women,1374,22,4,4286.88,UPI,3.1,Kolkata
+587,Shoes,Men,1505,37,3,2844.45,Debit Card,4.2,Kolkata
+588,T-Shirt,Kids,3964,45,1,2180.2,UPI,4.5,Hyderabad
+589,Jacket,Kids,892,17,1,740.36,Credit Card,3.6,Kolkata
+590,Shorts,Women,1214,22,5,4734.6,Wallet,4.9,Chennai
+591,Dress,Kids,1816,40,3,3268.8,Cash on Delivery,3.4,Bangalore
+592,Jeans,Women,663,19,4,2148.12,Debit Card,4.5,Chennai
+593,Sweater,Men,992,38,4,2460.16,Credit Card,3.1,Delhi
+594,Sweater,Kids,4775,46,3,7735.5,Wallet,4.9,Hyderabad
+595,Dress,Kids,2936,48,1,1526.72,Debit Card,3,Delhi
+596,Dress,Men,3263,19,1,2643.03,Credit Card,3.6,Chennai
+597,Sweater,Women,2364,43,2,2694.96,Wallet,4.7,Pune
+598,Jacket,Kids,1556,18,4,5103.68,UPI,3.7,Kolkata
+599,Sweater,Kids,2221,35,4,5774.6,Credit Card,3.7,Chennai
+600,Jacket,Women,3648,33,1,2444.16,Credit Card,3,Pune
+601,Dress,Women,2689,34,1,1774.74,Debit Card,3.1,Pune
+602,Shorts,Women,1994,47,3,3170.46,Wallet,3.3,Bangalore
+603,Jeans,Kids,2189,50,1,1094.5,Wallet,4,Bangalore
+604,Jacket,Men,3976,38,2,4930.24,UPI,3.8,Delhi
+605,Jeans,Women,2116,18,2,3470.24,Wallet,3.6,Hyderabad
+606,Jacket,Men,4105,30,4,11494,Cash on Delivery,3.5,Hyderabad
+607,Shorts,Kids,3957,37,1,2492.91,UPI,3.6,Mumbai
+608,Shorts,Men,2235,19,1,1810.35,UPI,3.5,Kolkata
+609,T-Shirt,Women,3917,39,4,9557.48,Credit Card,4.8,Delhi
+610,Dress,Kids,3839,9,2,6986.98,Wallet,4.2,Kolkata
+611,Shorts,Kids,2945,34,1,1943.7,Wallet,4.3,Delhi
+612,Jeans,Women,2523,25,2,3784.5,Credit Card,4.9,Delhi
+613,Jacket,Kids,2683,32,4,7297.76,Debit Card,3.1,Pune
+614,T-Shirt,Kids,4028,5,1,3826.6,Credit Card,3.8,Hyderabad
+615,T-Shirt,Women,3839,8,5,17659.4,Wallet,3.4,Hyderabad
+616,Dress,Men,4523,22,2,7055.88,Wallet,4.4,Chennai
+617,Shoes,Kids,2589,20,2,4142.4,Cash on Delivery,4.8,Mumbai
+618,T-Shirt,Women,854,46,2,922.32,Debit Card,4.9,Mumbai
+619,Jacket,Kids,626,6,4,2353.76,Debit Card,3.8,Kolkata
+620,T-Shirt,Kids,4185,28,2,6026.4,Debit Card,3.6,Pune
+621,Jacket,Men,910,16,3,2293.2,Credit Card,3.8,Bangalore
+622,Jeans,Women,514,10,2,925.2,Wallet,4,Bangalore
+623,Dress,Kids,4952,40,5,14856,UPI,4.3,Pune
+624,Jeans,Kids,1611,36,2,2062.08,Wallet,4,Pune
+625,Sweater,Women,1533,21,1,1211.07,Credit Card,3.2,Mumbai
+626,Shoes,Women,4570,40,2,5484,UPI,3.8,Hyderabad
+627,Jeans,Kids,3287,38,3,6113.82,Debit Card,4.3,Pune
+628,Jeans,Men,2610,43,1,1487.7,Cash on Delivery,4.7,Mumbai
+629,Jeans,Kids,4493,22,4,14018.16,Cash on Delivery,3.7,Bangalore
+630,Jacket,Kids,1418,17,3,3530.82,Cash on Delivery,4.5,Bangalore
+631,Jeans,Kids,3230,39,2,3940.6,Credit Card,3.4,Kolkata
+632,Shorts,Women,3754,48,5,9760.4,Credit Card,3.8,Delhi
+633,Jeans,Men,3939,5,2,7484.1,Cash on Delivery,4.7,Kolkata
+634,Dress,Men,1895,31,3,3922.65,Debit Card,4.8,Bangalore
+635,Sweater,Men,4604,32,4,12522.88,Credit Card,3.2,Bangalore
+636,Shoes,Men,2146,34,2,2832.72,UPI,4,Delhi
+637,Jeans,Kids,1264,7,1,1175.52,Credit Card,4.1,Delhi
+638,Jeans,Women,2562,47,2,2715.72,Credit Card,3.2,Delhi
+639,Jeans,Men,4434,36,1,2837.76,Wallet,4.8,Bangalore
+640,Sweater,Kids,4749,19,1,3846.69,Cash on Delivery,3.6,Hyderabad
+641,Shoes,Women,1957,18,4,6418.96,Debit Card,4.7,Pune
+642,Shoes,Kids,4444,25,4,13332,Cash on Delivery,3.6,Chennai
+643,Sweater,Women,1440,42,1,835.2,UPI,4.5,Delhi
+644,Shorts,Women,4305,21,3,10202.85,Credit Card,4.7,Delhi
+645,T-Shirt,Kids,1159,28,4,3337.92,Credit Card,4.9,Chennai
+646,Sweater,Women,3692,9,2,6719.44,Wallet,3.4,Bangalore
+647,Dress,Women,1802,50,2,1802,Cash on Delivery,3.1,Pune
+648,Dress,Kids,680,18,4,2230.4,Wallet,4.6,Bangalore
+649,Jacket,Women,849,9,1,772.59,Wallet,3.1,Delhi
+650,Sweater,Men,3726,47,3,5924.34,Cash on Delivery,4.1,Delhi
+651,Jacket,Women,1006,47,4,2132.72,Wallet,4.4,Pune
+652,Shorts,Women,3120,30,4,8736,Debit Card,4.9,Pune
+653,Shoes,Kids,1776,21,1,1403.04,Cash on Delivery,3.5,Bangalore
+654,Sweater,Men,596,12,3,1573.44,Debit Card,3.5,Delhi
+655,Sweater,Kids,4285,15,1,3642.25,UPI,3.2,Mumbai
+656,Shoes,Kids,3726,16,4,12519.36,Wallet,3.1,Kolkata
+657,T-Shirt,Kids,2913,37,3,5505.57,UPI,3.4,Hyderabad
+658,Shorts,Men,2924,29,5,10380.2,Wallet,3.8,Pune
+659,Dress,Kids,3528,17,2,5856.48,Wallet,3.7,Bangalore
+660,Sweater,Men,3335,23,2,5135.9,Cash on Delivery,4.7,Bangalore
+661,Dress,Kids,1565,33,1,1048.55,Debit Card,4.3,Bangalore
+662,Shoes,Kids,1878,31,5,6479.1,Credit Card,4.5,Mumbai
+663,Shoes,Kids,3305,35,2,4296.5,Wallet,4.8,Mumbai
+664,Shoes,Men,4162,8,5,19145.2,Credit Card,3.2,Kolkata
+665,T-Shirt,Men,4979,47,1,2638.87,Credit Card,4.4,Delhi
+666,Sweater,Men,3311,34,1,2185.26,Credit Card,3,Mumbai
+667,Jeans,Men,3475,44,5,9730,Cash on Delivery,3.6,Kolkata
+668,T-Shirt,Kids,880,39,3,1610.4,UPI,4.6,Kolkata
+669,Sweater,Men,4185,7,1,3892.05,Cash on Delivery,3.8,Hyderabad
+670,Sweater,Women,1312,13,1,1141.44,Cash on Delivery,4.5,Chennai
+671,Jeans,Men,1175,6,2,2209,Credit Card,4.4,Kolkata
+672,Jacket,Kids,3864,33,1,2588.88,UPI,3.3,Hyderabad
+673,Shoes,Women,2596,44,1,1453.76,Cash on Delivery,3.3,Delhi
+674,Shorts,Women,2688,19,5,10886.4,Debit Card,4,Hyderabad
+675,Jeans,Kids,3528,12,2,6209.28,Debit Card,3.6,Delhi
+676,Jacket,Kids,1464,20,2,2342.4,Debit Card,4.7,Delhi
+677,T-Shirt,Men,3428,42,2,3976.48,Wallet,3.6,Bangalore
+678,Shoes,Women,3541,32,5,12039.4,Debit Card,4.8,Chennai
+679,Jacket,Men,1798,9,3,4908.54,Credit Card,3.1,Pune
+680,Shoes,Women,4512,39,1,2752.32,Debit Card,4.3,Mumbai
+681,Sweater,Women,2493,39,4,6082.92,Credit Card,3.5,Chennai
+682,Sweater,Women,3508,42,3,6103.92,Wallet,3.2,Pune
+683,Dress,Kids,4800,36,4,12288,Wallet,4,Mumbai
+684,Shorts,Kids,2996,49,2,3055.92,Cash on Delivery,4.5,Bangalore
+685,Dress,Women,4511,23,1,3473.47,Cash on Delivery,3.1,Pune
+686,Sweater,Men,1320,7,4,4910.4,Credit Card,4.3,Mumbai
+687,T-Shirt,Women,4390,47,5,11633.5,UPI,3.2,Bangalore
+688,Jacket,Women,4616,20,3,11078.4,UPI,3.7,Hyderabad
+689,T-Shirt,Men,1432,35,4,3723.2,Cash on Delivery,3.1,Kolkata
+690,Shorts,Kids,1807,17,1,1499.81,UPI,3.5,Mumbai
+691,Dress,Kids,1143,17,1,948.69,UPI,4.8,Kolkata
+692,T-Shirt,Kids,3355,16,1,2818.2,Credit Card,4.9,Delhi
+693,Jacket,Kids,4296,20,4,13747.2,Debit Card,3.7,Chennai
+694,Dress,Women,1626,29,1,1154.46,Cash on Delivery,4.4,Kolkata
+695,Jacket,Kids,722,23,5,2779.7,UPI,4.6,Delhi
+696,T-Shirt,Women,4423,25,5,16586.25,UPI,3.2,Chennai
+697,Sweater,Kids,2169,10,4,7808.4,Wallet,4.3,Delhi
+698,Sweater,Men,2627,41,4,6199.72,Debit Card,4.6,Delhi
+699,Shorts,Kids,3211,8,5,14770.6,UPI,5,Chennai
+700,Jeans,Men,2109,37,5,6643.35,Cash on Delivery,4.3,Pune
+701,Dress,Men,1539,30,4,4309.2,Debit Card,3.9,Hyderabad
+702,Sweater,Women,625,19,2,1012.5,UPI,3.3,Delhi
+703,Jeans,Women,521,21,5,2057.95,Cash on Delivery,3.3,Delhi
+704,T-Shirt,Men,4962,43,5,14141.7,Cash on Delivery,4.9,Bangalore
+705,Jeans,Men,876,41,5,2584.2,UPI,4.4,Bangalore
+706,Sweater,Kids,2227,48,1,1158.04,UPI,4.3,Hyderabad
+707,Shorts,Women,1706,24,1,1296.56,Credit Card,3.7,Hyderabad
+708,Jacket,Women,3311,37,1,2085.93,Debit Card,3.2,Delhi
+709,Jacket,Men,4952,50,5,12380,Credit Card,4.5,Pune
+710,T-Shirt,Kids,2725,34,4,7194,Wallet,4.3,Mumbai
+711,Dress,Kids,5000,40,2,6000,Wallet,4.2,Delhi
+712,Shorts,Kids,539,8,5,2479.4,Wallet,4.3,Pune
+713,Shoes,Women,1901,10,5,8554.5,Debit Card,4.6,Hyderabad
+714,Jeans,Men,3584,11,1,3189.76,Credit Card,3.2,Pune
+715,T-Shirt,Women,2711,46,4,5855.76,Debit Card,3.5,Hyderabad
+716,Dress,Men,1129,43,4,2574.12,Cash on Delivery,3.5,Bangalore
+717,Jeans,Men,2531,36,3,4859.52,Wallet,3.6,Delhi
+718,T-Shirt,Men,2062,48,2,2144.48,UPI,3.8,Chennai
+719,Sweater,Women,692,44,5,1937.6,Debit Card,4,Hyderabad
+720,Shoes,Kids,1074,30,3,2255.4,Debit Card,3.7,Chennai
+721,Shoes,Kids,3316,50,2,3316,UPI,3.9,Pune
+722,Jacket,Kids,3833,14,1,3296.38,Wallet,3.5,Delhi
+723,Shoes,Men,3263,35,2,4241.9,UPI,3.7,Mumbai
+724,T-Shirt,Women,3913,13,3,10212.93,Debit Card,3.6,Bangalore
+725,Shorts,Kids,2289,10,4,8240.4,Cash on Delivery,3.4,Pune
+726,Jeans,Women,2001,17,2,3321.66,Wallet,4.6,Delhi
+727,Dress,Men,1900,13,2,3306,Credit Card,4.1,Kolkata
+728,Dress,Men,2194,13,1,1908.78,Credit Card,3.8,Chennai
+729,Sweater,Kids,4435,8,1,4080.2,Debit Card,4,Delhi
+730,Shoes,Kids,1296,33,2,1736.64,UPI,4.2,Pune
+731,T-Shirt,Kids,740,8,3,2042.4,Debit Card,4.3,Pune
+732,Jeans,Kids,2087,12,5,9182.8,Wallet,4.8,Kolkata
+733,Shorts,Men,2201,21,5,8693.95,Credit Card,3.8,Delhi
+734,Jeans,Women,1257,27,1,917.61,Cash on Delivery,3,Chennai
+735,Sweater,Men,2978,20,2,4764.8,Cash on Delivery,3.2,Chennai
+736,Dress,Kids,4243,24,2,6449.36,Credit Card,4.8,Chennai
+737,Jeans,Kids,2648,32,2,3601.28,UPI,3.4,Delhi
+738,T-Shirt,Men,1120,27,5,4088,Debit Card,4.7,Hyderabad
+739,T-Shirt,Kids,956,44,5,2676.8,Cash on Delivery,4.3,Bangalore
+740,Sweater,Men,2521,46,1,1361.34,Debit Card,4.2,Hyderabad
+741,Jeans,Men,3619,41,5,10676.05,Wallet,4.7,Mumbai
+742,Shoes,Kids,3845,41,2,4537.1,Credit Card,4.4,Delhi
+743,Jacket,Women,1686,25,1,1264.5,Debit Card,3.5,Delhi
+744,Jacket,Men,2016,9,4,7338.24,Debit Card,3.5,Delhi
+745,Dress,Kids,584,5,3,1664.4,Wallet,4.1,Mumbai
+746,Jacket,Women,1830,38,3,3403.8,Wallet,4.8,Bangalore
+747,Jacket,Kids,1498,14,5,6441.4,Cash on Delivery,4.4,Pune
+748,Jeans,Kids,4578,27,4,13367.76,Wallet,5,Bangalore
+749,Jeans,Women,1585,7,1,1474.05,Wallet,4.5,Chennai
+750,Jacket,Women,3336,12,2,5871.36,Wallet,3.9,Pune
+751,Jacket,Women,3654,11,2,6504.12,Credit Card,4.2,Hyderabad
+752,Shorts,Women,3963,13,1,3447.81,Credit Card,3.7,Pune
+753,Shorts,Kids,2654,49,2,2707.08,Debit Card,4.5,Delhi
+754,Dress,Kids,2491,44,3,4184.88,Wallet,3,Chennai
+755,Dress,Kids,812,47,1,430.36,Debit Card,3.7,Hyderabad
+756,Shoes,Women,4646,21,5,18351.7,Debit Card,4.3,Bangalore
+757,T-Shirt,Men,1265,6,2,2378.2,Cash on Delivery,3.8,Bangalore
+758,Shorts,Women,3556,41,2,4196.08,Cash on Delivery,3.3,Pune
+759,Jacket,Kids,3479,27,1,2539.67,Wallet,3,Kolkata
+760,Jeans,Women,4943,9,4,17992.52,Credit Card,4.5,Chennai
+761,Sweater,Women,2652,39,4,6470.88,UPI,3.6,Mumbai
+762,Shorts,Kids,4355,8,5,20033,Credit Card,4.4,Delhi
+763,Jeans,Women,742,15,4,2522.8,Debit Card,4.1,Hyderabad
+764,Dress,Kids,3167,6,1,2976.98,Debit Card,3.2,Bangalore
+765,Sweater,Women,3286,7,5,15279.9,Wallet,4.6,Delhi
+766,Dress,Women,3767,9,3,10283.91,UPI,4.1,Kolkata
+767,Shorts,Women,4737,18,1,3884.34,UPI,4.5,Mumbai
+768,Jeans,Women,4780,16,1,4015.2,UPI,4.1,Pune
+769,T-Shirt,Men,2181,44,4,4885.44,Wallet,5,Hyderabad
+770,Shoes,Women,3256,6,1,3060.64,Cash on Delivery,4,Chennai
+771,Shoes,Men,3017,15,1,2564.45,Wallet,4.7,Delhi
+772,Sweater,Kids,4295,45,5,11811.25,Credit Card,3.2,Kolkata
+773,T-Shirt,Men,605,31,5,2087.25,Cash on Delivery,4.6,Chennai
+774,Dress,Men,1462,31,3,3026.34,Cash on Delivery,3.1,Hyderabad
+775,Sweater,Men,4391,38,2,5444.84,Credit Card,4,Pune
+776,Shorts,Men,3077,35,1,2000.05,UPI,3.9,Mumbai
+777,Jeans,Women,4107,29,2,5831.94,Debit Card,3.5,Chennai
+778,Shorts,Women,1191,22,4,3715.92,Debit Card,3.1,Pune
+779,Shoes,Kids,4311,26,2,6380.28,Credit Card,3.8,Chennai
+780,Jeans,Kids,3570,45,5,9817.5,Credit Card,4.6,Kolkata
+781,Dress,Women,4773,16,3,12027.96,Credit Card,4.6,Kolkata
+782,Jeans,Men,2033,23,4,6261.64,Cash on Delivery,4.8,Pune
+783,Dress,Women,3218,30,2,4505.2,Wallet,4.8,Pune
+784,Dress,Men,4476,41,4,10563.36,Credit Card,3.5,Kolkata
+785,T-Shirt,Women,1813,14,2,3118.36,Credit Card,4.5,Pune
+786,Shorts,Women,2876,33,1,1926.92,UPI,3.3,Delhi
+787,Dress,Women,1553,28,2,2236.32,Credit Card,4.6,Pune
+788,Jeans,Women,4696,15,1,3991.6,Debit Card,4.8,Mumbai
+789,Shorts,Men,4003,15,3,10207.65,Debit Card,4.9,Mumbai
+790,Dress,Women,1744,16,3,4394.88,Debit Card,3.5,Bangalore
+791,Shoes,Kids,1121,37,4,2824.92,Debit Card,4.2,Hyderabad
+792,Sweater,Men,4102,18,4,13454.56,Debit Card,4.1,Kolkata
+793,T-Shirt,Women,3257,39,4,7947.08,UPI,3.8,Chennai
+794,Jeans,Women,2390,28,2,3441.6,Credit Card,3.5,Kolkata
+795,T-Shirt,Kids,4848,47,4,10277.76,Wallet,3.8,Kolkata
+796,T-Shirt,Kids,4498,8,2,8276.32,UPI,3.6,Chennai
+797,Shorts,Men,1612,37,4,4062.24,Credit Card,4.6,Kolkata
+798,Jacket,Women,4656,24,5,17692.8,Debit Card,3.3,Bangalore
+799,Shoes,Kids,3898,27,3,8536.62,Credit Card,4.6,Bangalore
+800,Jacket,Kids,1569,35,4,4079.4,Debit Card,3,Chennai
+801,T-Shirt,Women,3412,20,3,8188.8,Cash on Delivery,3.2,Kolkata
+802,T-Shirt,Men,534,27,3,1169.46,Cash on Delivery,4.5,Delhi
+803,Shoes,Kids,2632,35,2,3421.6,UPI,3.5,Bangalore
+804,Jeans,Women,2152,7,5,10006.8,Wallet,4.8,Pune
+805,Jacket,Men,1773,20,4,5673.6,Credit Card,3.8,Pune
+806,Shoes,Kids,3386,21,5,13374.7,Wallet,4,Kolkata
+807,Shoes,Kids,3737,25,2,5605.5,Debit Card,4.8,Pune
+808,Jacket,Men,1024,31,2,1413.12,UPI,3.6,Bangalore
+809,Jacket,Women,1057,46,2,1141.56,Cash on Delivery,3.1,Hyderabad
+810,T-Shirt,Men,2680,15,5,11390,Credit Card,3.3,Pune
+811,Shorts,Men,2738,42,1,1588.04,Cash on Delivery,3.3,Pune
+812,Dress,Men,1247,23,3,2880.57,Debit Card,4.8,Chennai
+813,Jeans,Kids,931,13,1,809.97,Credit Card,3.2,Pune
+814,Jacket,Kids,2296,49,3,3512.88,UPI,3.3,Kolkata
+815,Dress,Kids,4895,41,2,5776.1,Credit Card,3.9,Delhi
+816,Shoes,Women,3842,31,4,10603.92,Credit Card,5,Chennai
+817,T-Shirt,Men,4024,21,2,6357.92,Credit Card,4.9,Pune
+818,T-Shirt,Kids,1250,27,3,2737.5,Cash on Delivery,3.3,Kolkata
+819,Jeans,Kids,4410,30,2,6174,Credit Card,3.7,Kolkata
+820,Dress,Women,4231,16,5,17770.2,Wallet,4.4,Mumbai
+821,Jacket,Kids,1704,44,3,2862.72,Wallet,3.3,Kolkata
+822,Sweater,Men,1799,8,1,1655.08,Debit Card,3.7,Mumbai
+823,Sweater,Women,4150,36,3,7968,UPI,4.1,Mumbai
+824,Shoes,Kids,3475,50,5,8687.5,Debit Card,4.4,Mumbai
+825,Shorts,Men,2135,38,2,2647.4,Credit Card,5,Delhi
+826,Shorts,Men,1329,27,1,970.17,Debit Card,3.3,Hyderabad
+827,Sweater,Men,4541,21,5,17936.95,UPI,3.8,Mumbai
+828,Jacket,Women,2872,40,2,3446.4,Wallet,3.7,Pune
+829,Dress,Kids,912,26,1,674.88,Cash on Delivery,4.5,Pune
+830,Shorts,Women,924,8,1,850.08,Credit Card,3.4,Pune
+831,T-Shirt,Kids,4267,33,3,8576.67,Credit Card,3.5,Bangalore
+832,Jacket,Men,2810,30,5,9835,Wallet,5,Mumbai
+833,T-Shirt,Men,1779,40,3,3202.2,Wallet,3.5,Hyderabad
+834,T-Shirt,Men,3989,14,5,17152.7,Wallet,4.8,Delhi
+835,Jacket,Men,4376,21,1,3457.04,Cash on Delivery,4.2,Pune
+836,Dress,Women,3164,17,4,10504.48,UPI,3.5,Mumbai
+837,Shorts,Kids,2941,39,4,7176.04,UPI,4.5,Delhi
+838,Jeans,Women,1148,6,1,1079.12,Credit Card,4,Mumbai
+839,Dress,Men,4873,50,3,7309.5,UPI,3.8,Mumbai
+840,Jeans,Women,1721,48,4,3579.68,UPI,4.5,Kolkata
+841,Shoes,Women,913,17,1,757.79,Debit Card,4.9,Chennai
+842,Jeans,Women,3533,36,5,11305.6,Debit Card,4,Bangalore
+843,Sweater,Women,2195,42,2,2546.2,UPI,4.4,Pune
+844,Shoes,Kids,2519,46,1,1360.26,UPI,3.1,Chennai
+845,Shorts,Kids,4379,36,1,2802.56,Debit Card,3.1,Hyderabad
+846,Jeans,Kids,2675,20,2,4280,Debit Card,3.2,Kolkata
+847,Sweater,Women,2693,50,2,2693,UPI,3.2,Bangalore
+848,Jacket,Kids,4189,34,2,5529.48,Wallet,3.9,Pune
+849,Shorts,Women,4468,13,1,3887.16,UPI,3.9,Pune
+850,T-Shirt,Kids,1940,37,3,3666.6,UPI,4.9,Kolkata
+851,Shorts,Men,3218,17,5,13354.7,UPI,3.7,Pune
+852,T-Shirt,Men,3593,5,5,17066.75,Cash on Delivery,3.4,Chennai
+853,Shoes,Women,1012,9,1,920.92,Wallet,4.3,Mumbai
+854,Shorts,Men,2025,37,2,2551.5,Credit Card,4.6,Mumbai
+855,Shoes,Men,2937,10,2,5286.6,UPI,4.5,Mumbai
+856,Dress,Kids,3064,49,4,6250.56,UPI,3.3,Kolkata
+857,T-Shirt,Women,3974,47,4,8424.88,Wallet,3.4,Bangalore
+858,Dress,Women,3252,21,3,7707.24,Wallet,3.5,Bangalore
+859,Shoes,Women,3571,19,2,5785.02,Wallet,3.8,Chennai
+860,Shorts,Women,1194,32,2,1623.84,Wallet,4.1,Bangalore
+861,Dress,Women,3935,23,5,15149.75,Cash on Delivery,3.6,Kolkata
+862,T-Shirt,Men,3261,27,2,4761.06,UPI,3.1,Hyderabad
+863,Jacket,Kids,2483,35,4,6455.8,UPI,3.4,Chennai
+864,Jacket,Men,4803,22,3,11239.02,Wallet,4.8,Mumbai
+865,T-Shirt,Women,4377,16,4,14706.72,Cash on Delivery,4.1,Hyderabad
+866,Jacket,Men,908,15,5,3859,Debit Card,4.3,Mumbai
+867,Jacket,Men,744,32,2,1011.84,Cash on Delivery,3.9,Bangalore
+868,Shoes,Men,1756,24,3,4003.68,Debit Card,4.3,Kolkata
+869,Sweater,Women,4038,30,4,11306.4,Wallet,3,Pune
+870,Dress,Kids,2418,37,4,6093.36,Cash on Delivery,4.3,Hyderabad
+871,Shoes,Women,2608,12,3,6885.12,Debit Card,3.7,Pune
+872,Dress,Women,4843,20,3,11623.2,Debit Card,4,Delhi
+873,Shorts,Kids,1775,7,3,4952.25,Wallet,3.3,Pune
+874,Jeans,Kids,2699,18,5,11065.9,Wallet,4.6,Kolkata
+875,Jeans,Women,3263,32,1,2218.84,Debit Card,4,Kolkata
+876,Dress,Women,2450,38,1,1519,UPI,4.4,Pune
+877,Dress,Women,798,10,3,2154.6,Wallet,3.3,Delhi
+878,Sweater,Women,4699,30,5,16446.5,Credit Card,4.1,Chennai
+879,Jeans,Men,1741,10,5,7834.5,Wallet,4,Hyderabad
+880,T-Shirt,Women,3601,35,2,4681.3,Wallet,3.8,Pune
+881,T-Shirt,Women,1372,22,4,4280.64,Debit Card,3.3,Mumbai
+882,Jacket,Women,1561,24,1,1186.36,Credit Card,4.6,Bangalore
+883,Jacket,Women,991,23,1,763.07,Cash on Delivery,3.2,Pune
+884,Jeans,Women,1055,29,1,749.05,Credit Card,3.3,Delhi
+885,Dress,Men,1289,41,3,2281.53,Debit Card,3.7,Kolkata
+886,T-Shirt,Women,3692,14,2,6350.24,Credit Card,4.5,Hyderabad
+887,Jacket,Women,3175,29,3,6762.75,Wallet,4.3,Pune
+888,Shoes,Kids,1086,31,4,2997.36,UPI,4.8,Delhi
+889,Shoes,Kids,3645,39,1,2223.45,Cash on Delivery,3.4,Bangalore
+890,Jeans,Kids,4026,20,1,3220.8,Cash on Delivery,3.9,Chennai
+891,Sweater,Men,2602,17,3,6478.98,UPI,3.8,Chennai
+892,Dress,Kids,2598,33,3,5221.98,Wallet,4.1,Pune
+893,T-Shirt,Men,4899,47,3,7789.41,Debit Card,3.9,Mumbai
+894,Jacket,Men,4754,25,3,10696.5,UPI,3.9,Mumbai
+895,T-Shirt,Men,1067,42,5,3094.3,UPI,4.8,Pune
+896,Dress,Kids,3227,17,4,10713.64,Credit Card,4.7,Chennai
+897,Dress,Men,1396,48,5,3629.6,Cash on Delivery,3.6,Hyderabad
+898,Shorts,Men,1290,39,4,3147.6,Cash on Delivery,3.2,Chennai
+899,T-Shirt,Women,2590,6,4,9738.4,Wallet,3.5,Hyderabad
+900,Jacket,Men,2907,34,1,1918.62,Cash on Delivery,3.1,Mumbai
+901,Jacket,Women,1886,9,4,6865.04,Wallet,4.3,Hyderabad
+902,Dress,Men,2458,28,1,1769.76,Wallet,4.4,Delhi
+903,Sweater,Men,3343,28,4,9627.84,Cash on Delivery,4.4,Delhi
+904,Shoes,Women,4732,30,3,9937.2,UPI,3.3,Chennai
+905,Jacket,Men,1606,48,5,4175.6,Cash on Delivery,4,Kolkata
+906,Jeans,Kids,4715,5,3,13437.75,Cash on Delivery,4,Hyderabad
+907,T-Shirt,Men,4236,29,3,9022.68,UPI,4.1,Pune
+908,Dress,Women,2623,32,3,5350.92,Credit Card,3.4,Mumbai
+909,Jacket,Kids,3902,44,3,6555.36,Wallet,3.5,Bangalore
+910,Jacket,Women,3416,27,5,12468.4,Debit Card,4.6,Pune
+911,Dress,Kids,1196,44,3,2009.28,UPI,3.5,Kolkata
+912,Jacket,Women,1021,11,2,1817.38,Wallet,4.6,Chennai
+913,Jacket,Men,720,47,2,763.2,Debit Card,4,Mumbai
+914,Jeans,Women,942,36,1,602.88,Debit Card,4.9,Chennai
+915,Dress,Women,1514,34,2,1998.48,Credit Card,3.7,Pune
+916,Shorts,Men,1130,24,4,3435.2,Debit Card,4.7,Hyderabad
+917,T-Shirt,Women,1999,34,2,2638.68,UPI,4.9,Kolkata
+918,Sweater,Women,3270,45,3,5395.5,UPI,3.3,Pune
+919,Jeans,Women,3382,50,3,5073,Credit Card,3.7,Hyderabad
+920,Jeans,Kids,2195,16,4,7375.2,Wallet,4.3,Hyderabad
+921,T-Shirt,Kids,3932,28,1,2831.04,Cash on Delivery,3.1,Chennai
+922,Sweater,Kids,4336,15,1,3685.6,Wallet,3.5,Bangalore
+923,Shoes,Women,3554,42,2,4122.64,Cash on Delivery,4,Hyderabad
+924,Shoes,Kids,889,47,2,942.34,Wallet,3.4,Bangalore
+925,Sweater,Kids,4410,25,5,16537.5,UPI,3.3,Mumbai
+926,Sweater,Women,2641,9,3,7209.93,Credit Card,3.1,Delhi
+927,Jacket,Women,3273,22,1,2552.94,Wallet,4.3,Hyderabad
+928,T-Shirt,Kids,1392,38,2,1726.08,Wallet,4.9,Pune
+929,Dress,Kids,4467,28,1,3216.24,Wallet,3.1,Chennai
+930,Shoes,Kids,2067,37,5,6511.05,Wallet,4.3,Bangalore
+931,T-Shirt,Men,1181,45,4,2598.2,Wallet,3,Pune
+932,Jacket,Men,4580,29,3,9755.4,UPI,4.8,Mumbai
+933,Shorts,Kids,3800,10,2,6840,Debit Card,4.6,Mumbai
+934,Dress,Kids,1819,7,5,8458.35,Credit Card,3.1,Pune
+935,Shoes,Men,3146,15,3,8022.3,UPI,3.5,Hyderabad
+936,Jacket,Men,3967,21,3,9401.79,Wallet,4.3,Bangalore
+937,Shorts,Kids,1666,42,4,3865.12,UPI,4,Hyderabad
+938,Dress,Women,4456,39,3,8154.48,Wallet,4.5,Hyderabad
+939,Dress,Women,2369,47,1,1255.57,Wallet,3.6,Mumbai
+940,Jacket,Kids,1870,38,1,1159.4,Cash on Delivery,5,Bangalore
+941,Shorts,Men,1198,14,1,1030.28,Credit Card,4.2,Hyderabad
+942,Jacket,Men,1152,35,3,2246.4,Debit Card,4.5,Mumbai
+943,T-Shirt,Women,3533,9,3,9645.09,Credit Card,3.8,Hyderabad
+944,Shorts,Men,3272,43,4,7460.16,UPI,4.1,Kolkata
+945,Shoes,Women,2784,21,4,8797.44,Credit Card,4.9,Pune
+946,Jacket,Men,1196,23,5,4604.6,Credit Card,4,Chennai
+947,Jacket,Men,1568,20,1,1254.4,Wallet,3.3,Pune
+948,Jeans,Women,3332,17,4,11062.24,Cash on Delivery,4.9,Chennai
+949,Shoes,Women,3538,33,3,7111.38,Wallet,4.5,Bangalore
+950,Jacket,Kids,3015,37,3,5698.35,Debit Card,4.8,Chennai
+951,Jacket,Women,753,25,4,2259,Credit Card,3.3,Hyderabad
+952,T-Shirt,Kids,1793,34,4,4733.52,UPI,4.6,Kolkata
+953,Shorts,Kids,3323,32,3,6778.92,Wallet,4,Mumbai
+954,Jacket,Men,3298,41,2,3891.64,Cash on Delivery,4.4,Hyderabad
+955,Shorts,Women,573,22,4,1787.76,Cash on Delivery,4.1,Kolkata
+956,Jeans,Women,3316,28,5,11937.6,UPI,3.5,Pune
+957,Jeans,Women,3112,31,5,10736.4,Wallet,3.9,Delhi
+958,Sweater,Women,4810,12,5,21164,UPI,4.7,Mumbai
+959,T-Shirt,Men,1702,44,5,4765.6,UPI,3.1,Mumbai
+960,Shorts,Men,992,26,2,1468.16,Credit Card,4.8,Mumbai
+961,T-Shirt,Women,2742,13,5,11927.7,Wallet,3.8,Hyderabad
+962,T-Shirt,Women,4684,30,3,9836.4,UPI,4.7,Pune
+963,Sweater,Kids,3257,44,1,1823.92,UPI,5,Hyderabad
+964,Jacket,Men,3634,18,5,14899.4,UPI,4.4,Mumbai
+965,Shorts,Men,4583,37,3,8661.87,Credit Card,3.6,Bangalore
+966,Jeans,Men,1238,7,2,2302.68,Credit Card,4.5,Bangalore
+967,Shoes,Men,4669,46,5,12606.3,Wallet,3.5,Bangalore
+968,Dress,Women,2267,39,5,6914.35,Debit Card,3.2,Kolkata
+969,Jacket,Kids,2008,10,2,3614.4,Cash on Delivery,3.8,Pune
+970,T-Shirt,Kids,4649,42,3,8089.26,UPI,4.1,Hyderabad
+971,Dress,Men,1098,30,5,3843,Credit Card,4.8,Chennai
+972,Jeans,Men,3556,14,3,9174.48,Credit Card,4,Kolkata
+973,Dress,Men,3614,28,3,7806.24,Debit Card,4.1,Chennai
+974,Sweater,Men,2000,18,4,6560,Cash on Delivery,4.6,Kolkata
+975,Shoes,Women,2356,30,4,6596.8,UPI,4.6,Hyderabad
+976,Shorts,Kids,2773,34,2,3660.36,Wallet,4.4,Bangalore
+977,Jacket,Kids,3451,7,3,9628.29,Credit Card,4,Kolkata
+978,T-Shirt,Women,1179,32,3,2405.16,UPI,3.6,Delhi
+979,Jeans,Men,3954,46,1,2135.16,Cash on Delivery,3.2,Mumbai
+980,Shoes,Men,4507,46,5,12168.9,Wallet,3.4,Mumbai
+981,Jeans,Women,4803,22,2,7492.68,UPI,3.7,Kolkata
+982,T-Shirt,Kids,2720,9,2,4950.4,UPI,4.7,Delhi
+983,Shorts,Women,994,21,5,3926.3,UPI,4,Chennai
+984,Shorts,Kids,4503,11,5,20038.35,UPI,4.6,Bangalore
+985,Jacket,Kids,2345,8,2,4314.8,Credit Card,4.7,Bangalore
+986,Sweater,Kids,733,17,3,1825.17,Debit Card,4.3,Pune
+987,Sweater,Men,3089,33,4,8278.52,Debit Card,4.4,Mumbai
+988,Jacket,Kids,3927,28,4,11309.76,UPI,3.7,Bangalore
+989,Shorts,Men,4565,38,1,2830.3,UPI,3.9,Kolkata
+990,Sweater,Kids,2307,5,4,8766.6,Wallet,4.9,Bangalore
+991,Jacket,Women,4355,11,3,11627.85,Wallet,3.4,Hyderabad
+992,Sweater,Men,4774,21,3,11314.38,UPI,4.1,Pune
+993,Jeans,Men,2201,29,2,3125.42,Credit Card,3,Delhi
+994,Shorts,Men,4688,45,4,10313.6,Debit Card,3.1,Pune
+995,Dress,Women,3416,6,5,16055.2,Debit Card,4.8,Hyderabad
+996,Dress,Men,2632,29,5,9343.6,UPI,4.3,Hyderabad
+997,Jacket,Kids,2735,48,5,7111,Wallet,4.9,Kolkata
+998,Jeans,Kids,4944,5,5,23484,Debit Card,3.8,Mumbai
+999,Shorts,Kids,3498,26,1,2588.52,Cash on Delivery,4.6,Bangalore
+1000,Jacket,Men,2674,31,4,7380.24,Credit Card,3.8,Delhi
+1001,Shoes,Men,1228,39,1,749.08,Wallet,4.5,Bangalore
+1002,T-Shirt,Women,4142,12,4,14579.84,Wallet,3.2,Hyderabad
+1003,Shorts,Kids,4027,49,5,10268.85,Wallet,3.7,Mumbai
+1004,Jacket,Men,2406,47,5,6375.9,Debit Card,4.4,Delhi
+1005,Jeans,Men,1517,17,4,5036.44,Credit Card,4.5,Mumbai
+1006,T-Shirt,Women,1387,5,5,6588.25,UPI,4.5,Chennai
+1007,Jacket,Kids,4580,38,4,11358.4,Wallet,5,Mumbai
+1008,Jacket,Kids,4870,26,5,18019,UPI,4.3,Pune
+1009,T-Shirt,Kids,520,44,4,1164.8,Debit Card,4.5,Hyderabad
+1010,Jeans,Kids,1780,17,2,2954.8,UPI,4.7,Kolkata
+1011,Shorts,Men,1208,26,1,893.92,Cash on Delivery,3.2,Pune
+1012,Shorts,Kids,4586,15,4,15592.4,Cash on Delivery,3.5,Delhi
+1013,T-Shirt,Men,1844,10,4,6638.4,Credit Card,4.3,Bangalore
+1014,Sweater,Kids,4944,23,3,11420.64,Cash on Delivery,4.7,Kolkata
+1015,Jeans,Women,4175,12,4,14696,Credit Card,4.4,Chennai
+1016,Jacket,Men,3161,28,5,11379.6,UPI,4.2,Delhi
+1017,T-Shirt,Men,2380,16,4,7996.8,Cash on Delivery,3.7,Mumbai
+1018,Shoes,Women,2545,18,3,6260.7,Wallet,4.3,Delhi
+1019,Jeans,Women,942,9,1,857.22,Wallet,3,Mumbai
+1020,Shorts,Women,1331,41,3,2355.87,UPI,4,Chennai
+1021,Sweater,Kids,4748,13,1,4130.76,Credit Card,3.2,Delhi
+1022,Shorts,Kids,4288,17,1,3559.04,Wallet,3.9,Chennai
+1023,Dress,Women,2957,20,1,2365.6,UPI,4.8,Hyderabad
+1024,Jacket,Kids,1862,8,1,1713.04,Debit Card,4.8,Pune
+1025,Jeans,Men,2908,30,4,8142.4,UPI,4.3,Hyderabad
+1026,Jacket,Men,2466,37,5,7767.9,Debit Card,3.9,Mumbai
+1027,Dress,Men,1169,26,5,4325.3,Cash on Delivery,3.1,Delhi
+1028,Shorts,Women,4946,23,3,11425.26,Debit Card,4.2,Hyderabad
+1029,Shorts,Kids,3024,22,2,4717.44,Debit Card,4.8,Kolkata
+1030,Shorts,Kids,4229,19,1,3425.49,Debit Card,4.4,Bangalore
+1031,T-Shirt,Men,3544,20,1,2835.2,Wallet,4.8,Kolkata
+1032,Sweater,Men,910,9,3,2484.3,Cash on Delivery,4.2,Delhi
+1033,Jacket,Men,2188,35,2,2844.4,Cash on Delivery,4.1,Kolkata
+1034,Jacket,Kids,688,6,2,1293.44,Cash on Delivery,4.3,Mumbai
+1035,Sweater,Kids,3349,8,4,12324.32,Credit Card,3.4,Delhi
+1036,Jeans,Women,3464,43,3,5923.44,UPI,4.8,Mumbai
+1037,Dress,Men,4188,33,3,8417.88,UPI,4.6,Mumbai
+1038,Jeans,Women,1114,39,4,2718.16,Wallet,5,Hyderabad
+1039,T-Shirt,Kids,4606,46,5,12436.2,Wallet,3.7,Bangalore
+1040,Shoes,Kids,3473,34,1,2292.18,Cash on Delivery,4.1,Mumbai
+1041,Dress,Men,677,23,1,521.29,Credit Card,3.9,Bangalore
+1042,Jacket,Women,4938,48,3,7703.28,Credit Card,4.4,Bangalore
+1043,Jeans,Men,2382,10,5,10719,Debit Card,3,Delhi
+1044,Shorts,Women,4890,34,4,12909.6,Credit Card,3.8,Kolkata
+1045,Shoes,Men,4254,44,4,9528.96,Cash on Delivery,3.7,Pune
+1046,Sweater,Women,1578,40,1,946.8,UPI,4.9,Pune
+1047,Shoes,Women,1639,42,2,1901.24,Cash on Delivery,3.3,Delhi
+1048,Dress,Women,1426,32,2,1939.36,Cash on Delivery,3.9,Hyderabad
+1049,Shorts,Women,2606,49,4,5316.24,Cash on Delivery,4.7,Delhi
+1050,Shoes,Women,3104,42,5,9001.6,Cash on Delivery,3.4,Hyderabad
+1051,Dress,Men,4277,11,4,15226.12,Wallet,4.1,Mumbai
+1052,T-Shirt,Kids,2187,31,2,3018.06,Cash on Delivery,4.8,Mumbai
+1053,Sweater,Men,3056,24,3,6967.68,UPI,4.1,Hyderabad
+1054,Jacket,Women,1869,42,1,1084.02,Debit Card,3.1,Delhi
+1055,Jeans,Men,2335,43,5,6654.75,Wallet,3.9,Delhi
+1056,Shoes,Kids,2364,34,5,7801.2,Cash on Delivery,4.1,Pune
+1057,Jeans,Kids,2094,16,1,1758.96,Credit Card,4.8,Delhi
+1058,Dress,Kids,1667,7,3,4650.93,UPI,3.3,Delhi
+1059,Sweater,Men,4572,14,4,15727.68,Debit Card,3.4,Pune
+1060,Shorts,Men,2384,19,1,1931.04,Cash on Delivery,3,Delhi
+1061,Jacket,Women,2049,28,2,2950.56,UPI,3.9,Kolkata
+1062,T-Shirt,Women,1384,5,1,1314.8,UPI,4.9,Delhi
+1063,Shoes,Women,1145,48,3,1786.2,UPI,3.3,Chennai
+1064,Sweater,Men,3092,43,1,1762.44,UPI,3.5,Delhi
+1065,Sweater,Men,2877,6,4,10817.52,Debit Card,3.3,Chennai
+1066,Sweater,Men,4746,36,3,9112.32,Cash on Delivery,4.7,Mumbai
+1067,Jacket,Women,1340,23,3,3095.4,Cash on Delivery,4.6,Bangalore
+1068,Shoes,Women,773,34,2,1020.36,UPI,3.7,Delhi
+1069,Jeans,Women,995,46,5,2686.5,UPI,4.3,Hyderabad
+1070,T-Shirt,Men,2201,24,3,5018.28,Wallet,4.3,Chennai
+1071,Shorts,Kids,898,30,4,2514.4,UPI,4.3,Bangalore
+1072,Sweater,Men,3925,44,2,4396,Debit Card,4.1,Delhi
+1073,Jeans,Men,3441,19,2,5574.42,Cash on Delivery,3.1,Mumbai
+1074,Jacket,Women,1430,49,3,2187.9,Debit Card,4.2,Kolkata
+1075,Jacket,Kids,887,18,5,3636.7,UPI,3.9,Mumbai
+1076,Shoes,Men,1585,20,1,1268,Credit Card,4.6,Kolkata
+1077,Sweater,Women,4245,37,3,8023.05,Cash on Delivery,4.3,Chennai
+1078,Sweater,Men,4103,14,1,3528.58,Debit Card,4.5,Hyderabad
+1079,Dress,Kids,1497,17,4,4970.04,Credit Card,3.4,Hyderabad
+1080,Shorts,Kids,3914,48,2,4070.56,Cash on Delivery,4.5,Hyderabad
+1081,Jacket,Kids,3148,21,4,9947.68,Wallet,4.5,Mumbai
+1082,Shoes,Kids,2961,42,1,1717.38,Credit Card,3.5,Kolkata
+1083,Dress,Men,875,29,5,3106.25,Credit Card,3.7,Mumbai
+1084,T-Shirt,Women,1030,8,4,3790.4,Debit Card,3.3,Pune
+1085,Jacket,Kids,2909,17,3,7243.41,UPI,3.8,Delhi
+1086,Shorts,Women,1705,36,5,5456,Debit Card,4.7,Bangalore
+1087,T-Shirt,Women,3003,41,1,1771.77,Debit Card,4.8,Delhi
+1088,Jacket,Men,1931,38,4,4788.88,Wallet,4.7,Delhi
+1089,Shorts,Men,4266,27,5,15570.9,Debit Card,4.7,Kolkata
+1090,Sweater,Kids,570,12,2,1003.2,UPI,4.8,Bangalore
+1091,Dress,Women,3797,43,3,6492.87,Wallet,4.6,Hyderabad
+1092,T-Shirt,Women,2104,12,1,1851.52,Credit Card,4.6,Pune
+1093,T-Shirt,Men,4648,32,1,3160.64,Credit Card,3.6,Bangalore
+1094,T-Shirt,Kids,4596,22,2,7169.76,Debit Card,3.2,Kolkata
+1095,Dress,Women,2912,8,2,5358.08,Cash on Delivery,4.1,Delhi
+1096,T-Shirt,Kids,2642,34,4,6974.88,Wallet,3.7,Delhi
+1097,T-Shirt,Men,765,22,5,2983.5,Debit Card,4.5,Delhi
+1098,Shorts,Women,1461,11,2,2600.58,Credit Card,4.3,Mumbai
+1099,Jeans,Men,3685,29,4,10465.4,Wallet,3.5,Hyderabad
+1100,Jacket,Kids,3592,40,2,4310.4,Debit Card,4.9,Hyderabad
+1101,Shoes,Kids,1739,39,2,2121.58,Debit Card,4.1,Kolkata
+1102,Jacket,Kids,3950,20,3,9480,Debit Card,3.9,Pune
+1103,Dress,Men,2650,13,3,6916.5,Debit Card,4,Mumbai
+1104,Sweater,Men,1444,46,5,3898.8,Credit Card,4.5,Delhi
+1105,Sweater,Kids,1093,44,5,3060.4,Credit Card,5,Chennai
+1106,Sweater,Men,1810,45,4,3982,Debit Card,4.6,Bangalore
+1107,Shorts,Women,1846,13,3,4818.06,Credit Card,4.9,Pune
+1108,Sweater,Men,2093,10,3,5651.1,Debit Card,4.8,Mumbai
+1109,T-Shirt,Kids,1789,5,5,8497.75,Cash on Delivery,3.1,Chennai
+1110,Shoes,Men,4901,46,2,5293.08,Cash on Delivery,4.1,Delhi
+1111,Sweater,Kids,545,25,1,408.75,Cash on Delivery,3.6,Chennai
+1112,Sweater,Kids,4673,40,4,11215.2,Cash on Delivery,4.3,Kolkata
+1113,Sweater,Women,4684,15,4,15925.6,UPI,3.3,Delhi
+1114,Jeans,Kids,4319,35,2,5614.7,Wallet,3.7,Chennai
+1115,Sweater,Kids,4489,48,5,11671.4,UPI,4.8,Bangalore
+1116,Dress,Women,2918,50,5,7295,Wallet,3.6,Delhi
+1117,Jacket,Kids,1917,41,5,5655.15,Credit Card,4.2,Pune
+1118,Shorts,Men,872,33,4,2336.96,Credit Card,4.5,Chennai
+1119,Shorts,Women,4854,40,4,11649.6,Cash on Delivery,3.9,Hyderabad
+1120,T-Shirt,Men,662,44,4,1482.88,UPI,4.1,Delhi
+1121,Jeans,Women,4776,48,5,12417.6,UPI,3.1,Mumbai
+1122,Dress,Women,3104,34,4,8194.56,UPI,3.6,Kolkata
+1123,T-Shirt,Women,3761,21,5,14855.95,Credit Card,3.1,Bangalore
+1124,Jacket,Kids,3117,44,2,3491.04,Wallet,3.3,Bangalore
+1125,Shorts,Kids,2851,19,5,11546.55,Wallet,3.1,Pune
+1126,Jacket,Men,3206,10,5,14427,Credit Card,3.8,Kolkata
+1127,Jeans,Men,2947,23,5,11345.95,Cash on Delivery,4.2,Delhi
+1128,Dress,Kids,4887,38,2,6059.88,Cash on Delivery,4.2,Kolkata
+1129,Dress,Kids,3059,34,2,4037.88,Debit Card,4.2,Bangalore
+1130,Sweater,Men,1557,36,1,996.48,Debit Card,4.6,Pune
+1131,Shoes,Women,4864,38,5,15078.4,UPI,4.2,Pune
+1132,Shoes,Kids,1411,37,1,888.93,Wallet,4,Delhi
+1133,Shoes,Kids,4565,12,5,20086,Wallet,4.6,Mumbai
+1134,Jacket,Kids,3101,33,2,4155.34,Wallet,3.4,Chennai
+1135,Jacket,Women,1063,14,2,1828.36,Credit Card,4,Pune
+1136,Jacket,Women,613,34,2,809.16,Credit Card,3.5,Kolkata
+1137,Dress,Kids,2379,39,2,2902.38,UPI,4.8,Pune
+1138,Shorts,Women,1618,13,1,1407.66,Cash on Delivery,4.1,Bangalore
+1139,T-Shirt,Women,4710,37,4,11869.2,Wallet,4,Hyderabad
+1140,T-Shirt,Kids,682,10,2,1227.6,Wallet,4.8,Delhi
+1141,Jacket,Kids,4505,17,1,3739.15,Debit Card,4.2,Mumbai
+1142,T-Shirt,Men,3106,46,3,5031.72,Debit Card,4,Chennai
+1143,Sweater,Women,1485,8,2,2732.4,Credit Card,3.8,Chennai
+1144,T-Shirt,Men,4682,43,2,5337.48,Wallet,3.3,Kolkata
+1145,Shoes,Women,3155,31,5,10884.75,Cash on Delivery,4,Chennai
+1146,Dress,Men,2599,19,5,10525.95,Cash on Delivery,4.1,Chennai
+1147,Sweater,Women,2062,49,2,2103.24,Cash on Delivery,3.4,Mumbai
+1148,Shorts,Women,1761,45,4,3874.2,Cash on Delivery,4.2,Hyderabad
+1149,Dress,Kids,4467,27,3,9782.73,Wallet,3.8,Pune
+1150,Shorts,Kids,2685,10,1,2416.5,Debit Card,3.2,Pune
+1151,Jacket,Men,500,46,1,270,Debit Card,3.4,Hyderabad
+1152,Jacket,Kids,2313,49,1,1179.63,UPI,3,Kolkata
+1153,Shoes,Women,2221,48,4,4619.68,UPI,3.1,Bangalore
+1154,T-Shirt,Kids,2141,34,4,5652.24,UPI,4.4,Mumbai
+1155,Jeans,Kids,4168,17,2,6918.88,Credit Card,3.2,Hyderabad
+1156,Shorts,Women,4218,10,3,11388.6,Credit Card,3.4,Kolkata
+1157,T-Shirt,Women,3452,44,2,3866.24,UPI,3.8,Delhi
+1158,Shoes,Kids,2888,5,2,5487.2,Debit Card,3.6,Mumbai
+1159,Shorts,Women,4702,16,3,11849.04,Debit Card,4.7,Kolkata
+1160,Jeans,Men,1045,38,1,647.9,Credit Card,3.3,Pune
+1161,Shoes,Kids,4393,5,5,20866.75,Wallet,4.9,Hyderabad
+1162,Sweater,Women,3728,8,2,6859.52,Cash on Delivery,3.7,Kolkata
+1163,Shoes,Kids,2510,30,3,5271,UPI,3.8,Mumbai
+1164,Jacket,Kids,735,23,4,2263.8,Cash on Delivery,3.2,Kolkata
+1165,Shoes,Women,1144,19,1,926.64,Credit Card,3.2,Hyderabad
+1166,Jacket,Women,737,27,5,2690.05,Wallet,4.4,Mumbai
+1167,Jacket,Women,3931,32,1,2673.08,Wallet,4.5,Bangalore
+1168,T-Shirt,Men,1405,5,3,4004.25,Credit Card,4,Chennai
+1169,Sweater,Women,3448,46,4,7447.68,UPI,3.5,Delhi
+1170,Sweater,Women,2950,11,4,10502,Debit Card,3.1,Hyderabad
+1171,Jeans,Kids,1618,48,5,4206.8,Wallet,3.4,Mumbai
+1172,Dress,Kids,1579,38,1,978.98,Debit Card,4.6,Chennai
+1173,Dress,Kids,2016,19,4,6531.84,Credit Card,3.4,Chennai
+1174,Dress,Men,916,27,3,2006.04,UPI,3.6,Chennai
+1175,Jeans,Kids,591,6,5,2777.7,Debit Card,3.9,Chennai
+1176,Dress,Women,1152,23,1,887.04,Debit Card,3.4,Pune
+1177,Sweater,Men,3942,42,4,9145.44,UPI,3.3,Mumbai
+1178,Jacket,Kids,1894,33,3,3806.94,Debit Card,4.5,Bangalore
+1179,Dress,Men,4424,44,3,7432.32,Wallet,4.8,Mumbai
+1180,T-Shirt,Kids,709,33,1,475.03,Wallet,4.9,Chennai
+1181,Shorts,Kids,4388,19,4,14217.12,Debit Card,3.3,Bangalore
+1182,Dress,Men,3887,46,1,2098.98,Debit Card,4.9,Pune
+1183,Shoes,Women,2078,38,3,3865.08,Credit Card,3.6,Bangalore
+1184,Jacket,Men,2057,5,3,5862.45,Debit Card,3.5,Kolkata
+1185,Shoes,Kids,3901,31,5,13458.45,Wallet,4,Kolkata
+1186,Shorts,Kids,2473,39,1,1508.53,Wallet,3.2,Mumbai
+1187,Jacket,Kids,2897,25,1,2172.75,Cash on Delivery,4.8,Bangalore
+1188,Sweater,Women,1327,46,1,716.58,Wallet,4.7,Delhi
+1189,T-Shirt,Women,4646,27,3,10174.74,Wallet,4.7,Pune
+1190,Dress,Kids,1446,29,2,2053.32,Wallet,3.5,Bangalore
+1191,Shoes,Women,3649,10,3,9852.3,Cash on Delivery,4.4,Delhi
+1192,Sweater,Kids,2338,37,2,2945.88,Debit Card,3.2,Hyderabad
+1193,Shoes,Kids,2726,17,3,6787.74,Credit Card,3.6,Mumbai
+1194,Shorts,Women,1204,34,2,1589.28,UPI,4,Chennai
+1195,Shorts,Kids,2231,30,3,4685.1,Debit Card,4.7,Kolkata
+1196,Dress,Kids,1668,9,4,6071.52,Wallet,3.4,Mumbai
+1197,Dress,Women,4135,8,3,11412.6,Credit Card,3.1,Mumbai
+1198,Jeans,Men,812,50,4,1624,Debit Card,4.1,Chennai
+1199,T-Shirt,Women,1684,28,3,3637.44,Cash on Delivery,4.7,Kolkata
+1200,Shoes,Men,4848,45,5,13332,Credit Card,4,Delhi
+1201,T-Shirt,Men,2696,43,1,1536.72,Cash on Delivery,4.5,Hyderabad
+1202,Shorts,Kids,3768,9,3,10286.64,Credit Card,3.5,Bangalore
+1203,T-Shirt,Women,2988,14,4,10278.72,Credit Card,4.5,Mumbai
+1204,Shorts,Women,3965,13,3,10348.65,Debit Card,3.8,Hyderabad
+1205,T-Shirt,Women,509,28,4,1465.92,Credit Card,3.2,Chennai
+1206,Jacket,Women,2892,36,4,7403.52,Cash on Delivery,3.5,Chennai
+1207,Jacket,Women,2766,18,3,6804.36,UPI,4.4,Bangalore
+1208,Jeans,Men,3457,39,1,2108.77,Debit Card,3.6,Delhi
+1209,T-Shirt,Women,950,17,1,788.5,UPI,3.9,Bangalore
+1210,Jeans,Kids,2740,31,3,5671.8,Debit Card,4.1,Mumbai
+1211,Dress,Men,2019,50,3,3028.5,Credit Card,3.6,Chennai
+1212,Jeans,Kids,1440,45,4,3168,Credit Card,3.6,Delhi
+1213,Jeans,Kids,2792,40,2,3350.4,Cash on Delivery,5,Chennai
+1214,Dress,Men,4533,27,2,6618.18,Cash on Delivery,3.8,Chennai
+1215,Dress,Men,2030,42,2,2354.8,Cash on Delivery,4.5,Bangalore
+1216,Sweater,Women,3902,21,5,15412.9,Debit Card,3.6,Pune
+1217,Sweater,Men,3876,29,5,13759.8,Credit Card,4.9,Pune
+1218,Jacket,Kids,3427,31,5,11823.15,Cash on Delivery,3,Hyderabad
+1219,T-Shirt,Men,4033,13,1,3508.71,UPI,4.4,Pune
+1220,Shoes,Kids,1578,45,1,867.9,Credit Card,3.8,Delhi
+1221,Jacket,Women,2661,22,4,8302.32,UPI,4,Mumbai
+1222,Dress,Men,727,40,1,436.2,Credit Card,3.3,Chennai
+1223,Dress,Kids,888,9,1,808.08,Credit Card,4.8,Hyderabad
+1224,Jeans,Women,2250,22,5,8775,Cash on Delivery,3.3,Mumbai
+1225,Sweater,Men,4990,32,1,3393.2,Debit Card,4.7,Hyderabad
+1226,Shoes,Women,2755,10,5,12397.5,Cash on Delivery,3.7,Kolkata
+1227,Jacket,Men,4238,45,2,4661.8,Wallet,4.4,Mumbai
+1228,T-Shirt,Kids,1832,31,5,6320.4,Cash on Delivery,3.7,Hyderabad
+1229,T-Shirt,Men,3591,20,1,2872.8,Cash on Delivery,4,Kolkata
+1230,Jeans,Women,4781,8,1,4398.52,Debit Card,3.8,Pune
+1231,Dress,Kids,2146,50,3,3219,Credit Card,4.5,Delhi
+1232,Sweater,Women,3546,6,5,16666.2,Credit Card,4.6,Pune
+1233,Dress,Men,4335,16,5,18207,Debit Card,4.3,Bangalore
+1234,Dress,Women,1256,11,4,4471.36,Cash on Delivery,4.5,Pune
+1235,Dress,Women,1734,9,1,1577.94,Credit Card,3.1,Kolkata
+1236,Dress,Kids,2047,15,3,5219.85,Debit Card,3.6,Delhi
+1237,Sweater,Women,854,5,1,811.3,Credit Card,4.5,Kolkata
+1238,Shorts,Women,785,9,5,3571.75,Cash on Delivery,4.2,Bangalore
+1239,Shoes,Men,4355,48,1,2264.6,Credit Card,4.6,Pune
+1240,Sweater,Kids,1755,24,4,5335.2,Wallet,4.3,Kolkata
+1241,Dress,Women,2601,41,1,1534.59,UPI,4.3,Hyderabad
+1242,Shoes,Women,921,31,1,635.49,UPI,3.9,Pune
+1243,Sweater,Men,4240,9,2,7716.8,Cash on Delivery,4.9,Bangalore
+1244,Jacket,Men,1623,32,1,1103.64,UPI,4.6,Chennai
+1245,Dress,Kids,4116,29,4,11689.44,Cash on Delivery,3.3,Mumbai
+1246,Dress,Women,816,13,1,709.92,Wallet,4.3,Bangalore
+1247,Shorts,Women,927,24,3,2113.56,Cash on Delivery,4.9,Pune
+1248,Jeans,Kids,2069,29,2,2937.98,Credit Card,3.2,Mumbai
+1249,T-Shirt,Men,1322,15,4,4494.8,Credit Card,3.4,Hyderabad
+1250,T-Shirt,Men,4887,12,1,4300.56,Credit Card,4.1,Kolkata
+1251,Jacket,Women,3457,47,4,7328.84,Wallet,4,Hyderabad
+1252,Jeans,Men,3615,50,1,1807.5,Cash on Delivery,4.8,Hyderabad
+1253,T-Shirt,Men,1088,50,1,544,Cash on Delivery,4.9,Mumbai
+1254,Shorts,Kids,741,33,3,1489.41,UPI,3.9,Bangalore
+1255,Jeans,Men,1517,34,5,5006.1,Credit Card,4.3,Mumbai
+1256,Jeans,Women,2128,12,5,9363.2,Wallet,4,Hyderabad
+1257,Jacket,Women,3966,8,3,10946.16,Credit Card,4,Chennai
+1258,Dress,Kids,1313,18,3,3229.98,Wallet,3.2,Mumbai
+1259,Shorts,Women,1892,26,4,5600.32,UPI,3.9,Mumbai
+1260,T-Shirt,Men,2490,38,1,1543.8,Debit Card,4.4,Chennai
+1261,Shorts,Kids,3830,42,4,8885.6,UPI,3.7,Delhi
+1262,Dress,Men,2552,11,3,6813.84,UPI,3.7,Kolkata
+1263,Shorts,Men,720,22,1,561.6,Cash on Delivery,3.1,Kolkata
+1264,Sweater,Women,1193,9,1,1085.63,UPI,3.7,Hyderabad
+1265,Dress,Women,1919,9,2,3492.58,Credit Card,4.6,Kolkata
+1266,Jacket,Women,3440,37,3,6501.6,Cash on Delivery,4.6,Bangalore
+1267,Jeans,Women,4447,6,2,8360.36,Wallet,4,Bangalore
+1268,Shoes,Women,4374,49,5,11153.7,Credit Card,4.4,Pune
+1269,Dress,Kids,753,16,1,632.52,Credit Card,4.9,Mumbai
+1270,T-Shirt,Women,3516,21,3,8332.92,Cash on Delivery,4.9,Chennai
+1271,Shoes,Kids,2287,46,4,4939.92,Credit Card,3.4,Pune
+1272,T-Shirt,Kids,4194,22,2,6542.64,Debit Card,3,Hyderabad
+1273,Shoes,Women,4926,41,1,2906.34,Cash on Delivery,4.6,Bangalore
+1274,Jacket,Men,4205,41,5,12404.75,Debit Card,3.2,Chennai
+1275,T-Shirt,Women,3869,12,1,3404.72,Debit Card,3.3,Pune
+1276,Jeans,Women,4671,26,4,13826.16,Cash on Delivery,3.6,Chennai
+1277,Shorts,Women,1682,46,3,2724.84,Debit Card,3,Delhi
+1278,Jacket,Women,1792,49,3,2741.76,Cash on Delivery,4.3,Chennai
+1279,T-Shirt,Women,667,21,3,1580.79,Debit Card,3.6,Chennai
+1280,Jacket,Men,985,11,2,1753.3,UPI,4.5,Hyderabad
+1281,Jacket,Men,3399,35,1,2209.35,Cash on Delivery,4.5,Bangalore
+1282,Shorts,Men,3498,28,4,10074.24,Cash on Delivery,3.1,Pune
+1283,Jacket,Women,2956,6,2,5557.28,Cash on Delivery,3,Bangalore
+1284,Shoes,Women,4608,26,1,3409.92,Credit Card,4.6,Hyderabad
+1285,Dress,Women,2051,36,4,5250.56,Cash on Delivery,3.9,Mumbai
+1286,T-Shirt,Kids,4583,6,1,4308.02,Wallet,4.8,Mumbai
+1287,Shoes,Men,2906,43,2,3312.84,Wallet,3.3,Bangalore
+1288,Jacket,Men,2273,16,1,1909.32,UPI,3.1,Kolkata
+1289,Shoes,Kids,1173,49,5,2991.15,Wallet,4.2,Pune
+1290,Shoes,Men,2689,15,2,4571.3,Debit Card,3.5,Mumbai
+1291,Dress,Men,2537,18,5,10401.7,Cash on Delivery,4.9,Chennai
+1292,Sweater,Women,1881,37,3,3555.09,Wallet,3.8,Chennai
+1293,Jacket,Men,1112,12,2,1957.12,Debit Card,3.1,Hyderabad
+1294,Sweater,Kids,1366,34,1,901.56,Wallet,4.2,Chennai
+1295,Sweater,Women,3262,31,5,11253.9,Debit Card,3.9,Hyderabad
+1296,Sweater,Men,3900,31,5,13455,UPI,4.5,Kolkata
+1297,Shoes,Women,2891,35,4,7516.6,Credit Card,3,Kolkata
+1298,Dress,Women,1902,14,3,4907.16,Debit Card,4.5,Hyderabad
+1299,Shoes,Men,4945,22,2,7714.2,Debit Card,4.1,Pune
+1300,T-Shirt,Women,1893,33,1,1268.31,Wallet,3.6,Chennai
+1301,Jacket,Women,2700,15,1,2295,UPI,4.1,Hyderabad
+1302,T-Shirt,Women,4628,20,3,11107.2,Cash on Delivery,3.5,Hyderabad
+1303,Dress,Kids,750,18,3,1845,Cash on Delivery,3.8,Delhi
+1304,Jacket,Women,2759,13,4,9601.32,Credit Card,4.4,Pune
+1305,Jacket,Men,3026,46,5,8170.2,Cash on Delivery,4.8,Hyderabad
+1306,Sweater,Men,3650,37,5,11497.5,Wallet,3.9,Mumbai
+1307,Shorts,Women,1732,21,4,5473.12,UPI,4.7,Chennai
+1308,T-Shirt,Kids,1627,7,2,3026.22,Debit Card,3.6,Bangalore
+1309,Shoes,Women,3349,12,1,2947.12,Cash on Delivery,4,Pune
+1310,Sweater,Kids,855,20,4,2736,UPI,3.9,Hyderabad
+1311,T-Shirt,Kids,1975,43,4,4503,UPI,3.7,Pune
+1312,Jeans,Men,2943,42,4,6827.76,Wallet,4.4,Hyderabad
+1313,Shorts,Kids,2781,33,5,9316.35,Cash on Delivery,4.9,Chennai
+1314,Sweater,Kids,4274,13,3,11155.14,Cash on Delivery,4.9,Kolkata
+1315,Shoes,Men,4333,11,1,3856.37,Cash on Delivery,3.4,Bangalore
+1316,Shorts,Men,3134,33,3,6299.34,Debit Card,4.4,Pune
+1317,T-Shirt,Kids,1029,40,2,1234.8,UPI,4.9,Bangalore
+1318,Jacket,Kids,4337,26,1,3209.38,Wallet,4.6,Kolkata
+1319,Shoes,Women,4777,9,1,4347.07,Wallet,3.7,Kolkata
+1320,Jacket,Kids,834,44,5,2335.2,Wallet,4.4,Kolkata
+1321,Shorts,Men,4727,36,5,15126.4,Cash on Delivery,3.6,Delhi
+1322,Shorts,Men,1847,26,3,4100.34,Credit Card,3.9,Hyderabad
+1323,Dress,Kids,3793,17,5,15740.95,UPI,3.3,Delhi
+1324,Shorts,Kids,1095,11,4,3898.2,Cash on Delivery,5,Pune
+1325,Shorts,Men,739,42,5,2143.1,Debit Card,3.6,Hyderabad
+1326,Shorts,Women,829,30,3,1740.9,Cash on Delivery,4.7,Hyderabad
+1327,Jacket,Women,2185,29,3,4654.05,Debit Card,3.8,Chennai
+1328,Dress,Kids,4268,22,4,13316.16,Cash on Delivery,4.5,Delhi
+1329,T-Shirt,Kids,783,34,1,516.78,Debit Card,4.3,Pune
+1330,Dress,Men,4882,33,4,13083.76,Debit Card,4.4,Pune
+1331,Shoes,Kids,3103,41,3,5492.31,Debit Card,4.9,Pune
+1332,Shoes,Kids,1072,11,2,1908.16,Cash on Delivery,3.2,Bangalore
+1333,Dress,Men,768,32,2,1044.48,Debit Card,4.1,Bangalore
+1334,Jacket,Kids,3413,49,1,1740.63,Wallet,3.7,Delhi
+1335,Shoes,Men,3724,46,1,2010.96,Debit Card,3.9,Pune
+1336,Shorts,Women,3948,25,5,14805,Credit Card,5,Mumbai
+1337,Dress,Men,4973,25,4,14919,Debit Card,3.6,Kolkata
+1338,T-Shirt,Men,2837,20,1,2269.6,Cash on Delivery,3.5,Pune
+1339,T-Shirt,Women,2461,23,4,7579.88,Credit Card,4,Kolkata
+1340,Jacket,Women,3113,36,1,1992.32,Debit Card,5,Bangalore
+1341,T-Shirt,Men,998,43,2,1137.72,Wallet,3.7,Hyderabad
+1342,Shoes,Women,1788,11,2,3182.64,Wallet,4.4,Kolkata
+1343,Shorts,Kids,807,34,5,2663.1,Credit Card,3.1,Chennai
+1344,Jeans,Kids,2270,38,3,4222.2,UPI,3.9,Hyderabad
+1345,Shorts,Men,888,36,2,1136.64,UPI,3.2,Delhi
+1346,Jacket,Men,1668,20,5,6672,Wallet,4,Delhi
+1347,Sweater,Women,4426,32,5,15048.4,Debit Card,4.7,Bangalore
+1348,Jeans,Kids,4540,15,3,11577,Debit Card,4.3,Hyderabad
+1349,T-Shirt,Kids,1944,43,5,5540.4,Debit Card,3.9,Kolkata
+1350,Shorts,Men,1311,26,1,970.14,UPI,5,Hyderabad
+1351,Jacket,Men,4087,7,1,3800.91,Debit Card,3.8,Kolkata
+1352,Shoes,Men,3116,17,2,5172.56,Credit Card,4.2,Mumbai
+1353,Jacket,Women,1357,45,4,2985.4,Cash on Delivery,4.3,Delhi
+1354,T-Shirt,Kids,4743,9,5,21580.65,UPI,4,Hyderabad
+1355,Dress,Women,4039,25,5,15146.25,Credit Card,4.6,Chennai
+1356,Jacket,Women,3508,15,4,11927.2,Wallet,4.6,Bangalore
+1357,Sweater,Men,1050,49,3,1606.5,Debit Card,4.2,Delhi
+1358,Jacket,Men,2941,17,5,12205.15,UPI,3.5,Delhi
+1359,Jacket,Women,4366,18,1,3580.12,Wallet,3.6,Delhi
+1360,Jacket,Kids,1333,12,3,3519.12,Cash on Delivery,4,Hyderabad
+1361,T-Shirt,Men,3077,16,4,10338.72,Wallet,3.8,Bangalore
+1362,Shorts,Women,2210,33,3,4442.1,Wallet,3.5,Delhi
+1363,Jacket,Women,1698,44,3,2852.64,Credit Card,3.2,Bangalore
+1364,Shorts,Men,783,23,4,2411.64,Cash on Delivery,4.9,Hyderabad
+1365,Jacket,Men,569,22,1,443.82,UPI,4.5,Bangalore
+1366,Sweater,Men,4123,34,4,10884.72,Cash on Delivery,3.7,Hyderabad
+1367,Sweater,Kids,2268,20,1,1814.4,Debit Card,4.8,Bangalore
+1368,Shoes,Men,4188,16,4,14071.68,Cash on Delivery,4.8,Bangalore
+1369,T-Shirt,Women,4129,20,1,3303.2,Cash on Delivery,3.7,Chennai
+1370,Jacket,Kids,557,36,2,712.96,Wallet,3.7,Hyderabad
+1371,Shoes,Men,4669,28,1,3361.68,Cash on Delivery,4.8,Mumbai
+1372,Sweater,Kids,2216,31,3,4587.12,Cash on Delivery,4.3,Delhi
+1373,Shorts,Women,2509,47,2,2659.54,Wallet,4.1,Pune
+1374,Shoes,Men,2045,40,3,3681,UPI,4.9,Kolkata
+1375,Jeans,Kids,1594,36,4,4080.64,Credit Card,3.1,Chennai
+1376,Jacket,Kids,1392,19,5,5637.6,Debit Card,5,Hyderabad
+1377,Sweater,Men,2970,35,5,9652.5,UPI,4,Mumbai
+1378,Jacket,Men,2741,7,4,10196.52,Wallet,4.8,Hyderabad
+1379,Jeans,Women,2305,30,4,6454,UPI,3.7,Delhi
+1380,Dress,Men,4556,28,2,6560.64,Cash on Delivery,4.4,Kolkata
+1381,Jeans,Women,2173,12,4,7648.96,Credit Card,3.7,Bangalore
+1382,Shorts,Women,2101,7,4,7815.72,Debit Card,3.5,Pune
+1383,Shorts,Women,3597,22,4,11222.64,Debit Card,4.5,Mumbai
+1384,Shorts,Kids,4933,8,4,18153.44,UPI,4.6,Chennai
+1385,Shorts,Kids,3580,49,1,1825.8,Wallet,3.4,Bangalore
+1386,Jeans,Women,3403,28,2,4900.32,Wallet,5,Delhi
+1387,Shoes,Kids,4160,29,1,2953.6,Credit Card,4.7,Chennai
+1388,Jacket,Men,4612,47,4,9777.44,UPI,5,Hyderabad
+1389,Jacket,Kids,564,41,1,332.76,UPI,3.4,Kolkata
+1390,Dress,Men,4675,39,2,5703.5,Debit Card,3.4,Kolkata
+1391,Jacket,Women,3507,42,2,4068.12,Credit Card,3.9,Bangalore
+1392,Jacket,Women,3531,28,3,7626.96,Cash on Delivery,3.5,Chennai
+1393,Jacket,Kids,939,25,1,704.25,Debit Card,3.3,Mumbai
+1394,T-Shirt,Kids,2418,50,1,1209,Debit Card,3.8,Pune
+1395,T-Shirt,Men,2561,32,1,1741.48,Credit Card,3.8,Pune
+1396,T-Shirt,Kids,3619,34,4,9554.16,Debit Card,4.4,Chennai
+1397,T-Shirt,Men,822,8,5,3781.2,Debit Card,3.2,Delhi
+1398,Jeans,Women,2318,38,2,2874.32,Cash on Delivery,3.6,Mumbai
+1399,Dress,Kids,4407,24,5,16746.6,Cash on Delivery,3.8,Chennai
+1400,Jacket,Men,2019,16,1,1695.96,UPI,3.7,Bangalore
+1401,Dress,Women,3367,50,3,5050.5,Credit Card,4.5,Mumbai
+1402,Jacket,Men,2230,37,5,7024.5,Debit Card,4.7,Bangalore
+1403,Shorts,Women,3801,17,2,6309.66,UPI,3.2,Delhi
+1404,Shoes,Men,3753,17,4,12459.96,Debit Card,3.5,Chennai
+1405,Jeans,Men,4587,40,2,5504.4,UPI,4.4,Delhi
+1406,Jeans,Women,4035,43,5,11499.75,UPI,4.4,Pune
+1407,Jacket,Women,523,46,1,282.42,Cash on Delivery,4.4,Hyderabad
+1408,Shoes,Women,4395,12,1,3867.6,Debit Card,3.4,Bangalore
+1409,Jeans,Men,1810,19,1,1466.1,Credit Card,3.2,Delhi
+1410,Jeans,Kids,1606,28,5,5781.6,Credit Card,3.7,Hyderabad
+1411,Dress,Women,3315,43,1,1889.55,Credit Card,4.2,Pune
+1412,Jacket,Women,4395,12,3,11602.8,Credit Card,4.3,Hyderabad
+1413,Dress,Women,1788,21,4,5650.08,Credit Card,3,Bangalore
+1414,Jacket,Kids,4111,29,5,14594.05,Credit Card,4.7,Chennai
+1415,Sweater,Women,4538,18,4,14884.64,Debit Card,3.2,Kolkata
+1416,Jacket,Men,4521,40,5,13563,UPI,3.1,Pune
+1417,Jacket,Kids,2250,31,3,4657.5,Cash on Delivery,4.7,Bangalore
+1418,Sweater,Kids,4790,43,3,8190.9,Cash on Delivery,3.9,Hyderabad
+1419,Shoes,Men,3364,42,3,5853.36,Credit Card,4.1,Hyderabad
+1420,Shoes,Women,4137,40,3,7446.6,UPI,4.4,Pune
+1421,Sweater,Kids,2285,8,1,2102.2,UPI,3.8,Pune
+1422,Sweater,Women,643,13,5,2797.05,Debit Card,4.2,Delhi
+1423,T-Shirt,Kids,4061,26,2,6010.28,Credit Card,3,Kolkata
+1424,Shorts,Women,3770,16,1,3166.8,Debit Card,4.4,Bangalore
+1425,Dress,Men,2249,17,2,3733.34,Debit Card,3.3,Pune
+1426,Sweater,Women,938,15,4,3189.2,Wallet,4.8,Pune
+1427,Dress,Men,4858,25,4,14574,Debit Card,3.4,Chennai
+1428,Jeans,Women,2684,36,3,5153.28,Debit Card,4.5,Kolkata
+1429,Jacket,Men,3807,9,3,10393.11,Wallet,4.2,Bangalore
+1430,Jeans,Women,3573,35,2,4644.9,UPI,4.7,Delhi
+1431,Shoes,Kids,2686,47,1,1423.58,Credit Card,4.1,Mumbai
+1432,Jacket,Women,3259,49,3,4986.27,UPI,4.5,Chennai
+1433,Shorts,Women,4064,25,1,3048,Wallet,3.4,Bangalore
+1434,Jeans,Women,3051,17,1,2532.33,Debit Card,3.4,Chennai
+1435,Shorts,Men,2975,32,2,4046,UPI,3.5,Bangalore
+1436,Jacket,Men,2373,7,3,6620.67,UPI,3.6,Pune
+1437,Shoes,Kids,3365,42,4,7806.8,UPI,3.3,Hyderabad
+1438,T-Shirt,Kids,4045,36,3,7766.4,Wallet,4.8,Mumbai
+1439,Dress,Men,2280,10,1,2052,Credit Card,4.1,Chennai
+1440,Shoes,Kids,3078,19,1,2493.18,Cash on Delivery,3.1,Chennai
+1441,Jacket,Women,3356,27,3,7349.64,UPI,3.7,Pune
+1442,Shorts,Women,4077,11,1,3628.53,Wallet,4.9,Chennai
+1443,Shorts,Women,2672,20,2,4275.2,UPI,4,Bangalore
+1444,Shoes,Women,3787,19,1,3067.47,Wallet,3.8,Hyderabad
+1445,Shoes,Kids,4309,36,1,2757.76,Cash on Delivery,4.2,Chennai
+1446,Sweater,Kids,2096,36,2,2682.88,Wallet,4.6,Delhi
+1447,T-Shirt,Kids,4818,16,3,12141.36,Debit Card,4.9,Hyderabad
+1448,Sweater,Women,4283,23,1,3297.91,Cash on Delivery,4.8,Bangalore
+1449,Sweater,Men,934,33,1,625.78,Credit Card,4.9,Delhi
+1450,Shoes,Kids,4509,39,4,11001.96,UPI,3.5,Kolkata
+1451,Shorts,Kids,4979,44,2,5576.48,Wallet,4,Hyderabad
+1452,Jeans,Kids,4252,14,3,10970.16,Credit Card,4.5,Delhi
+1453,Dress,Women,1900,10,1,1710,Debit Card,4.4,Pune
+1454,Jacket,Women,4022,28,2,5791.68,UPI,3.2,Hyderabad
+1455,Jacket,Women,2689,22,4,8389.68,Debit Card,4.8,Bangalore
+1456,Dress,Men,2445,31,5,8435.25,Credit Card,3.1,Pune
+1457,T-Shirt,Women,4554,35,2,5920.2,Cash on Delivery,4.5,Pune
+1458,Dress,Kids,4863,43,1,2771.91,Debit Card,3.2,Kolkata
+1459,Jeans,Women,2578,10,1,2320.2,Cash on Delivery,3.2,Bangalore
+1460,Jeans,Women,2743,32,2,3730.48,Wallet,4.7,Chennai
+1461,Dress,Men,2348,39,3,4296.84,Cash on Delivery,3.3,Delhi
+1462,Sweater,Women,968,12,4,3407.36,Debit Card,3.8,Pune
+1463,Jacket,Women,4953,40,4,11887.2,Debit Card,3,Pune
+1464,Shoes,Men,3530,30,3,7413,Cash on Delivery,3.6,Mumbai
+1465,Jacket,Women,3939,30,1,2757.3,UPI,3.9,Delhi
+1466,Dress,Men,1584,50,3,2376,UPI,3.1,Bangalore
+1467,Dress,Women,3594,22,5,14016.6,UPI,3.1,Hyderabad
+1468,T-Shirt,Women,932,50,4,1864,Cash on Delivery,3.9,Delhi
+1469,Jeans,Women,3523,8,4,12964.64,Wallet,4.6,Mumbai
+1470,Dress,Kids,731,42,4,1695.92,Debit Card,3.8,Kolkata
+1471,Shorts,Women,4857,48,4,10102.56,Debit Card,3.1,Hyderabad
+1472,Dress,Men,4620,46,4,9979.2,Cash on Delivery,3.2,Kolkata
+1473,Jacket,Men,3758,16,4,12626.88,Cash on Delivery,3.6,Delhi
+1474,Shoes,Women,2099,39,2,2560.78,Debit Card,4.5,Pune
+1475,Sweater,Kids,2372,44,5,6641.6,Credit Card,4.6,Pune
+1476,T-Shirt,Men,2661,40,2,3193.2,Debit Card,3.6,Chennai
+1477,Shorts,Men,2548,50,3,3822,UPI,3.5,Delhi
+1478,Dress,Kids,2147,5,3,6118.95,Wallet,4.9,Pune
+1479,Shoes,Kids,2447,36,1,1566.08,Wallet,3.5,Chennai
+1480,Shoes,Women,3287,40,1,1972.2,Credit Card,3.4,Delhi
+1481,Jacket,Kids,2082,33,3,4184.82,Credit Card,3.2,Kolkata
+1482,T-Shirt,Women,1301,21,1,1027.79,Debit Card,3.4,Hyderabad
+1483,Shoes,Women,1173,7,2,2181.78,UPI,4.3,Hyderabad
+1484,Shoes,Men,4372,33,2,5858.48,UPI,3.9,Pune
+1485,Shorts,Women,4178,20,1,3342.4,Credit Card,4.5,Chennai
+1486,Dress,Kids,4766,45,1,2621.3,Debit Card,4.1,Bangalore
+1487,T-Shirt,Men,947,43,2,1079.58,Cash on Delivery,4.1,Mumbai
+1488,Jacket,Women,3771,9,2,6863.22,Cash on Delivery,4.2,Chennai
+1489,Dress,Women,1542,27,5,5628.3,Debit Card,4,Chennai
+1490,Dress,Women,3955,36,4,10124.8,Credit Card,3.1,Kolkata
+1491,Dress,Women,4479,44,4,10032.96,Wallet,4.6,Pune
+1492,Dress,Men,1053,17,5,4369.95,Cash on Delivery,5,Bangalore
+1493,Shoes,Men,4892,43,2,5576.88,Credit Card,4.1,Pune
+1494,Shoes,Men,2895,49,1,1476.45,UPI,3.2,Delhi
+1495,Jeans,Men,3264,28,5,11750.4,Cash on Delivery,5,Hyderabad
+1496,T-Shirt,Women,2666,7,3,7438.14,Debit Card,4.2,Bangalore
+1497,Jeans,Kids,4212,46,1,2274.48,Cash on Delivery,3.5,Chennai
+1498,Shorts,Kids,4249,33,5,14234.15,Wallet,3.5,Hyderabad
+1499,Shorts,Women,2709,24,2,4117.68,Debit Card,4.6,Bangalore
+1500,Dress,Kids,4492,28,1,3234.24,Debit Card,4,Kolkata
+1501,Shoes,Men,3184,48,4,6622.72,UPI,4.4,Chennai
+1502,Shoes,Men,2485,12,3,6560.4,Debit Card,4,Mumbai
+1503,Sweater,Men,1021,12,3,2695.44,Cash on Delivery,3.8,Kolkata
+1504,Dress,Women,2031,35,1,1320.15,Debit Card,3.2,Delhi
+1505,T-Shirt,Women,844,13,2,1468.56,Credit Card,4.6,Mumbai
+1506,Jacket,Men,771,46,5,2081.7,Wallet,3.9,Bangalore
+1507,Jeans,Kids,2318,44,5,6490.4,Debit Card,3.7,Mumbai
+1508,T-Shirt,Men,4027,23,5,15503.95,Credit Card,4.5,Bangalore
+1509,Shoes,Men,3730,38,3,6937.8,Credit Card,4.8,Kolkata
+1510,Dress,Kids,1925,21,3,4562.25,Debit Card,3.2,Kolkata
+1511,Dress,Women,1054,37,2,1328.04,Wallet,3.7,Pune
+1512,Shoes,Women,4027,45,1,2214.85,Credit Card,3.6,Hyderabad
+1513,Shorts,Men,3011,26,3,6684.42,Cash on Delivery,3.1,Chennai
+1514,Jeans,Kids,2051,38,4,5086.48,Debit Card,4.1,Mumbai
+1515,Shoes,Men,906,30,5,3171,UPI,3.9,Chennai
+1516,Shoes,Women,1017,27,3,2227.23,Debit Card,4.8,Bangalore
+1517,Jeans,Women,2511,43,3,4293.81,Credit Card,4.4,Delhi
+1518,Dress,Men,916,8,3,2528.16,Credit Card,3.7,Hyderabad
+1519,Dress,Women,4332,30,1,3032.4,Wallet,3.4,Pune
+1520,T-Shirt,Men,3268,12,1,2875.84,Debit Card,4.8,Chennai
+1521,T-Shirt,Kids,3454,27,1,2521.42,UPI,4,Bangalore
+1522,Dress,Kids,3003,13,2,5225.22,Credit Card,4.6,Delhi
+1523,Sweater,Men,3198,22,1,2494.44,UPI,4.8,Delhi
+1524,Shoes,Kids,3128,40,5,9384,Cash on Delivery,3.6,Pune
+1525,Dress,Women,3305,13,5,14376.75,Cash on Delivery,4.2,Pune
+1526,Jeans,Kids,3595,25,1,2696.25,Credit Card,3.8,Chennai
+1527,Sweater,Women,4576,34,2,6040.32,Cash on Delivery,4.2,Kolkata
+1528,Shoes,Women,1266,41,1,746.94,Credit Card,3.8,Mumbai
+1529,Jeans,Kids,2642,49,1,1347.42,Debit Card,4.7,Hyderabad
+1530,T-Shirt,Men,2304,15,1,1958.4,Credit Card,3.5,Mumbai
+1531,Sweater,Kids,2966,43,4,6762.48,UPI,4,Pune
+1532,Jacket,Kids,3828,25,5,14355,Wallet,3.8,Kolkata
+1533,Dress,Men,1511,32,4,4109.92,Credit Card,4.2,Chennai
+1534,Shoes,Men,3580,7,4,13317.6,UPI,3.5,Bangalore
+1535,Jeans,Men,2890,35,5,9392.5,Wallet,3.1,Bangalore
+1536,T-Shirt,Men,3743,47,1,1983.79,Credit Card,3.8,Kolkata
+1537,Dress,Kids,1012,24,3,2307.36,Cash on Delivery,4.8,Hyderabad
+1538,Jacket,Men,3439,22,4,10729.68,Wallet,4.6,Mumbai
+1539,T-Shirt,Men,2800,30,4,7840,Wallet,4.7,Bangalore
+1540,Shorts,Kids,2701,19,4,8751.24,Credit Card,4.3,Hyderabad
+1541,Jacket,Kids,4642,10,5,20889,UPI,3.3,Chennai
+1542,Jeans,Kids,935,44,1,523.6,Credit Card,3.3,Pune
+1543,Sweater,Women,1321,48,4,2747.68,Wallet,3.8,Hyderabad
+1544,Jeans,Men,3500,33,3,7035,Credit Card,4.6,Hyderabad
+1545,Shoes,Men,2048,29,1,1454.08,Debit Card,3.9,Kolkata
+1546,T-Shirt,Men,4683,28,2,6743.52,Credit Card,4.1,Bangalore
+1547,Shorts,Men,2860,45,1,1573,Credit Card,4.6,Delhi
+1548,Jacket,Men,4326,25,2,6489,Credit Card,4.1,Chennai
+1549,T-Shirt,Kids,1898,12,5,8351.2,UPI,4.4,Kolkata
+1550,Dress,Men,3531,25,1,2648.25,Cash on Delivery,3.7,Mumbai
+1551,Shorts,Kids,3981,36,4,10191.36,Credit Card,3.9,Pune
+1552,Sweater,Men,4705,37,2,5928.3,UPI,3.9,Kolkata
+1553,Shorts,Men,2507,10,3,6768.9,Cash on Delivery,3.8,Pune
+1554,Jacket,Women,1322,5,4,5023.6,Wallet,3.5,Delhi
+1555,Sweater,Kids,1291,25,5,4841.25,Debit Card,5,Mumbai
+1556,Shorts,Men,2989,28,5,10760.4,Debit Card,4.8,Bangalore
+1557,Shoes,Men,3976,41,4,9383.36,Cash on Delivery,4.6,Bangalore
+1558,Jeans,Kids,2280,22,4,7113.6,Wallet,3.9,Delhi
+1559,Dress,Women,4852,20,4,15526.4,UPI,4.5,Hyderabad
+1560,Sweater,Kids,2806,6,1,2637.64,Cash on Delivery,3.4,Kolkata
+1561,Jeans,Women,4456,5,2,8466.4,Credit Card,4.9,Pune
+1562,Sweater,Men,1706,22,4,5322.72,Cash on Delivery,3.3,Mumbai
+1563,T-Shirt,Women,2620,34,4,6916.8,Debit Card,4.8,Hyderabad
+1564,Jacket,Men,4348,20,4,13913.6,Credit Card,4.9,Chennai
+1565,Jeans,Women,4510,22,4,14071.2,Wallet,4.5,Bangalore
+1566,Sweater,Women,4845,27,3,10610.55,Wallet,3.9,Kolkata
+1567,Dress,Women,4185,23,4,12889.8,Credit Card,4.8,Delhi
+1568,Shoes,Kids,1634,42,4,3790.88,UPI,4.5,Chennai
+1569,Dress,Men,4419,27,2,6451.74,Cash on Delivery,3.7,Kolkata
+1570,Shoes,Women,1655,39,4,4038.2,Cash on Delivery,3.3,Kolkata
+1571,Shoes,Women,3064,12,4,10785.28,Cash on Delivery,4.8,Chennai
+1572,Shorts,Women,1290,22,3,3018.6,Debit Card,3.1,Hyderabad
+1573,Dress,Kids,4598,17,5,19081.7,Wallet,4.9,Bangalore
+1574,Sweater,Kids,2232,16,2,3749.76,Debit Card,4.7,Mumbai
+1575,Shorts,Women,759,36,3,1457.28,Credit Card,4,Kolkata
+1576,Dress,Women,4249,42,4,9857.68,Wallet,3.9,Kolkata
+1577,Dress,Women,4414,42,1,2560.12,Credit Card,4.4,Chennai
+1578,Shoes,Men,3083,18,2,5056.12,UPI,3.9,Mumbai
+1579,Jacket,Men,2795,27,5,10201.75,Wallet,3.1,Bangalore
+1580,Jacket,Women,4381,46,5,11828.7,Credit Card,4.5,Bangalore
+1581,T-Shirt,Women,1238,38,5,3837.8,UPI,3.2,Hyderabad
+1582,Shorts,Kids,4736,50,4,9472,Wallet,3.7,Bangalore
+1583,T-Shirt,Women,3152,5,3,8983.2,Cash on Delivery,4.7,Bangalore
+1584,Jeans,Women,2478,31,2,3419.64,Cash on Delivery,3.7,Kolkata
+1585,Sweater,Women,2624,40,5,7872,Cash on Delivery,3.3,Kolkata
+1586,Sweater,Kids,1246,21,2,1968.68,Debit Card,4.8,Hyderabad
+1587,Shoes,Women,4160,47,3,6614.4,Debit Card,4.1,Kolkata
+1588,T-Shirt,Kids,4835,29,2,6865.7,Credit Card,4.3,Pune
+1589,Shoes,Men,3457,29,1,2454.47,Credit Card,5,Pune
+1590,Shoes,Men,4049,25,4,12147,Cash on Delivery,4.8,Hyderabad
+1591,T-Shirt,Women,4082,49,5,10409.1,Cash on Delivery,4.2,Pune
+1592,Jacket,Men,930,44,1,520.8,Cash on Delivery,4.7,Bangalore
+1593,Jacket,Kids,1250,28,5,4500,Wallet,3.9,Delhi
+1594,T-Shirt,Kids,1528,15,4,5195.2,Credit Card,3.6,Bangalore
+1595,Jeans,Women,4283,19,4,13876.92,Wallet,3.9,Pune
+1596,Sweater,Women,1677,5,4,6372.6,Debit Card,4.7,Hyderabad
+1597,Shorts,Men,2624,34,1,1731.84,UPI,3.8,Bangalore
+1598,Dress,Men,2506,13,1,2180.22,Credit Card,4,Bangalore
+1599,Dress,Men,2877,50,2,2877,UPI,4.4,Bangalore
+1600,Jeans,Women,2242,11,2,3990.76,Cash on Delivery,4.9,Kolkata
+1601,Dress,Men,2013,32,4,5475.36,Debit Card,5,Delhi
+1602,Shorts,Kids,2058,43,4,4692.24,Debit Card,3.2,Chennai
+1603,Sweater,Kids,2755,31,1,1900.95,Credit Card,3.9,Bangalore
+1604,T-Shirt,Women,2654,31,5,9156.3,Wallet,3.9,Bangalore
+1605,Jacket,Men,883,43,1,503.31,Credit Card,3.9,Hyderabad
+1606,Shorts,Kids,1377,22,3,3222.18,Wallet,4.8,Hyderabad
+1607,Sweater,Women,3359,20,2,5374.4,Credit Card,4.4,Mumbai
+1608,Shoes,Women,2232,9,3,6093.36,Cash on Delivery,4.8,Mumbai
+1609,Shoes,Women,639,39,4,1559.16,Debit Card,3.1,Bangalore
+1610,T-Shirt,Women,2727,13,2,4744.98,Debit Card,4.8,Pune
+1611,Shorts,Women,3681,45,4,8098.2,Credit Card,4.7,Hyderabad
+1612,T-Shirt,Kids,4290,21,3,10167.3,Debit Card,4.8,Mumbai
+1613,Shoes,Women,4686,18,4,15370.08,Debit Card,4.8,Bangalore
+1614,Shorts,Men,4746,50,5,11865,Cash on Delivery,4.2,Chennai
+1615,Sweater,Men,4415,20,3,10596,Credit Card,4.9,Hyderabad
+1616,Shorts,Kids,3499,15,3,8922.45,UPI,4.4,Chennai
+1617,Jeans,Women,1732,45,1,952.6,Debit Card,3.8,Chennai
+1618,T-Shirt,Kids,3219,30,2,4506.6,Wallet,3.2,Chennai
+1619,Shoes,Kids,1556,12,5,6846.4,Cash on Delivery,3.7,Hyderabad
+1620,Jacket,Kids,2037,22,2,3177.72,Credit Card,3.2,Hyderabad
+1621,Shoes,Women,2018,23,2,3107.72,Credit Card,4.5,Bangalore
+1622,Jeans,Women,1828,17,2,3034.48,Credit Card,3.9,Pune
+1623,Shorts,Women,3252,33,4,8715.36,UPI,4.8,Pune
+1624,Sweater,Men,1229,46,2,1327.32,Wallet,3.5,Kolkata
+1625,Dress,Men,856,8,1,787.52,Debit Card,3.8,Delhi
+1626,Jeans,Kids,2020,48,2,2100.8,Credit Card,4.9,Delhi
+1627,T-Shirt,Women,3856,5,1,3663.2,UPI,3.3,Chennai
+1628,T-Shirt,Kids,3498,36,1,2238.72,Wallet,4.6,Mumbai
+1629,Shoes,Men,4102,16,1,3445.68,Credit Card,4.6,Delhi
+1630,Shorts,Men,507,9,2,922.74,Debit Card,3.6,Pune
+1631,Sweater,Men,4833,8,1,4446.36,Cash on Delivery,4.5,Pune
+1632,T-Shirt,Men,2560,16,4,8601.6,Credit Card,3.3,Delhi
+1633,Shoes,Kids,2451,49,4,5000.04,UPI,3.7,Kolkata
+1634,Dress,Men,4562,34,1,3010.92,Wallet,4,Pune
+1635,Jeans,Kids,3905,13,1,3397.35,Debit Card,4.1,Kolkata
+1636,Jeans,Women,3572,38,2,4429.28,Cash on Delivery,3.6,Kolkata
+1637,Shoes,Kids,4135,26,1,3059.9,Cash on Delivery,3.7,Bangalore
+1638,Shoes,Women,1467,18,4,4811.76,Credit Card,3.6,Hyderabad
+1639,T-Shirt,Women,4921,37,5,15501.15,Credit Card,4.2,Pune
+1640,Sweater,Women,2836,30,4,7940.8,Debit Card,4.1,Pune
+1641,T-Shirt,Kids,2182,39,2,2662.04,Cash on Delivery,3.7,Hyderabad
+1642,Shoes,Men,2301,40,2,2761.2,UPI,3.2,Chennai
+1643,Shoes,Women,2964,7,3,8269.56,Cash on Delivery,3.5,Pune
+1644,T-Shirt,Men,3575,39,2,4361.5,Debit Card,4.7,Kolkata
+1645,Jacket,Women,1020,5,2,1938,UPI,3.8,Chennai
+1646,T-Shirt,Men,4257,26,5,15750.9,Cash on Delivery,4.6,Delhi
+1647,T-Shirt,Kids,2168,28,1,1560.96,Cash on Delivery,4.1,Mumbai
+1648,Jeans,Kids,3462,30,5,12117,Cash on Delivery,3.2,Delhi
+1649,Dress,Women,3800,37,2,4788,UPI,3.1,Chennai
+1650,Sweater,Men,554,12,5,2437.6,UPI,4.4,Bangalore
+1651,T-Shirt,Men,4152,29,2,5895.84,UPI,4.6,Bangalore
+1652,T-Shirt,Kids,2280,43,5,6498,Credit Card,3.5,Mumbai
+1653,Jeans,Kids,4824,41,4,11384.64,UPI,4.5,Chennai
+1654,Sweater,Women,2409,48,4,5010.72,Wallet,4.5,Bangalore
+1655,Jacket,Kids,4995,48,2,5194.8,Wallet,5,Mumbai
+1656,Jacket,Men,695,5,5,3301.25,Credit Card,4.3,Kolkata
+1657,Jeans,Women,4771,45,5,13120.25,Wallet,4.6,Kolkata
+1658,T-Shirt,Women,962,25,4,2886,Cash on Delivery,4.3,Bangalore
+1659,Shoes,Women,4257,21,1,3363.03,UPI,3.2,Kolkata
+1660,Jacket,Women,3772,37,1,2376.36,UPI,3.2,Pune
+1661,Jacket,Men,4678,29,4,13285.52,Credit Card,4.5,Mumbai
+1662,Sweater,Kids,3521,29,2,4999.82,Cash on Delivery,3.8,Kolkata
+1663,Shoes,Men,1216,50,3,1824,Debit Card,3.1,Hyderabad
+1664,Sweater,Kids,4052,10,4,14587.2,UPI,3.4,Bangalore
+1665,T-Shirt,Men,2001,40,2,2401.2,UPI,3.5,Bangalore
+1666,Dress,Women,4877,10,5,21946.5,Credit Card,4.9,Kolkata
+1667,Sweater,Women,2518,27,1,1838.14,UPI,3.5,Pune
+1668,T-Shirt,Men,3544,49,3,5422.32,Wallet,3.1,Pune
+1669,Sweater,Women,602,18,5,2468.2,Debit Card,3,Pune
+1670,Shoes,Men,4252,17,1,3529.16,UPI,5,Hyderabad
+1671,T-Shirt,Kids,2806,50,5,7015,Wallet,4.2,Chennai
+1672,Jeans,Kids,3365,13,3,8782.65,Cash on Delivery,4.3,Kolkata
+1673,Jacket,Men,2688,45,5,7392,Wallet,3.6,Bangalore
+1674,T-Shirt,Kids,2009,15,3,5122.95,Debit Card,4.7,Chennai
+1675,Shoes,Kids,3148,34,5,10388.4,UPI,3.7,Chennai
+1676,T-Shirt,Kids,3918,33,3,7875.18,Debit Card,5,Mumbai
+1677,Jeans,Men,4307,21,3,10207.59,Debit Card,4.6,Hyderabad
+1678,Shorts,Kids,2134,8,3,5889.84,Cash on Delivery,3.3,Pune
+1679,Shoes,Kids,3716,48,1,1932.32,Debit Card,4.3,Chennai
+1680,Sweater,Kids,2636,48,4,5482.88,Wallet,4.2,Chennai
+1681,Shoes,Kids,4346,8,4,15993.28,Credit Card,4.9,Chennai
+1682,Shorts,Women,4246,30,2,5944.4,Debit Card,4.9,Chennai
+1683,Shorts,Women,2727,26,3,6053.94,Cash on Delivery,3.3,Delhi
+1684,T-Shirt,Kids,4377,45,2,4814.7,Debit Card,4.9,Delhi
+1685,Jeans,Kids,2001,35,1,1300.65,Wallet,4.5,Kolkata
+1686,Jacket,Men,911,27,3,1995.09,Debit Card,4,Delhi
+1687,Jacket,Women,1786,50,4,3572,UPI,3.4,Pune
+1688,Jeans,Men,4063,28,2,5850.72,UPI,4.9,Bangalore
+1689,Shorts,Women,4421,31,4,12201.96,Cash on Delivery,4,Chennai
+1690,Jeans,Men,1453,25,4,4359,Wallet,3.7,Hyderabad
+1691,Shorts,Kids,3820,8,1,3514.4,Credit Card,3.8,Mumbai
+1692,Shoes,Kids,3379,18,3,8312.34,Wallet,3.2,Chennai
+1693,Dress,Men,3532,7,2,6569.52,Cash on Delivery,4.8,Bangalore
+1694,Sweater,Men,1028,5,3,2929.8,Wallet,3.7,Delhi
+1695,Jacket,Women,4589,12,1,4038.32,Wallet,4.8,Bangalore
+1696,Shoes,Kids,4737,42,5,13737.3,Debit Card,3.2,Pune
+1697,Jacket,Men,3587,15,3,9146.85,Debit Card,4.4,Bangalore
+1698,Jeans,Kids,4563,18,4,14966.64,Credit Card,3.7,Chennai
+1699,Sweater,Men,783,26,1,579.42,Wallet,3.7,Mumbai
+1700,T-Shirt,Men,2436,10,2,4384.8,UPI,4.6,Chennai
+1701,Shorts,Women,569,12,4,2002.88,Debit Card,4.8,Mumbai
+1702,Shoes,Men,3482,11,4,12395.92,Wallet,4.7,Kolkata
+1703,Sweater,Kids,2912,38,1,1805.44,Credit Card,3.6,Hyderabad
+1704,T-Shirt,Men,2552,49,1,1301.52,Credit Card,4.2,Mumbai
+1705,Shorts,Women,4663,35,2,6061.9,UPI,4.2,Chennai
+1706,Shorts,Women,4612,21,5,18217.4,Cash on Delivery,3,Pune
+1707,Jacket,Men,4330,39,3,7923.9,Debit Card,3.5,Delhi
+1708,Shorts,Men,4304,26,5,15924.8,Cash on Delivery,3.7,Bangalore
+1709,Shoes,Men,2975,41,2,3510.5,UPI,4.2,Chennai
+1710,Shoes,Kids,4015,19,1,3252.15,UPI,4.5,Bangalore
+1711,Sweater,Women,3574,16,2,6004.32,Credit Card,3.3,Hyderabad
+1712,Jeans,Men,834,37,1,525.42,UPI,4.3,Mumbai
+1713,Dress,Men,2696,43,2,3073.44,Wallet,3.9,Delhi
+1714,Dress,Women,1183,21,3,2803.71,UPI,4.4,Delhi
+1715,T-Shirt,Women,2915,31,2,4022.7,Cash on Delivery,4.2,Pune
+1716,Dress,Men,919,44,4,2058.56,Wallet,3.2,Bangalore
+1717,Jeans,Kids,748,18,1,613.36,UPI,3.4,Chennai
+1718,Jeans,Kids,1718,27,2,2508.28,Credit Card,4.6,Mumbai
+1719,Sweater,Women,1806,37,5,5688.9,Cash on Delivery,4,Bangalore
+1720,Shorts,Men,1367,44,3,2296.56,Cash on Delivery,4.9,Kolkata
+1721,Dress,Men,3022,42,4,7011.04,UPI,3.7,Delhi
+1722,T-Shirt,Men,3027,27,5,11048.55,Cash on Delivery,3.3,Hyderabad
+1723,Sweater,Kids,3586,14,3,9251.88,Wallet,4.2,Pune
+1724,Jeans,Kids,1398,32,3,2851.92,Cash on Delivery,4.5,Pune
+1725,Jacket,Kids,2151,17,2,3570.66,Wallet,4.6,Kolkata
+1726,T-Shirt,Women,2132,6,5,10020.4,Cash on Delivery,3.2,Bangalore
+1727,Jeans,Men,4782,42,5,13867.8,Debit Card,3.8,Bangalore
+1728,Dress,Women,2794,45,5,7683.5,Wallet,4.8,Kolkata
+1729,Shoes,Women,1192,18,3,2932.32,UPI,4.8,Delhi
+1730,Sweater,Women,2067,47,3,3286.53,UPI,3.4,Kolkata
+1731,Shoes,Men,1927,29,4,5472.68,Credit Card,4.6,Mumbai
+1732,T-Shirt,Kids,4799,9,1,4367.09,UPI,4.2,Hyderabad
+1733,Jeans,Women,3639,40,5,10917,Debit Card,4.7,Mumbai
+1734,Shoes,Kids,1552,34,3,3072.96,Credit Card,4.6,Pune
+1735,Sweater,Kids,3969,16,4,13335.84,Credit Card,3.6,Kolkata
+1736,Sweater,Women,4095,11,4,14578.2,Wallet,3.1,Chennai
+1737,Jacket,Men,3228,25,1,2421,Debit Card,4.7,Kolkata
+1738,T-Shirt,Women,2228,5,3,6349.8,Credit Card,4.6,Bangalore
+1739,Sweater,Women,2364,31,1,1631.16,Credit Card,4.6,Hyderabad
+1740,Sweater,Men,4122,25,5,15457.5,UPI,3,Mumbai
+1741,T-Shirt,Kids,2975,24,4,9044,Credit Card,4.1,Chennai
+1742,Shoes,Kids,955,9,2,1738.1,Wallet,4,Mumbai
+1743,Shoes,Kids,3532,23,4,10878.56,Credit Card,4.3,Bangalore
+1744,Shorts,Women,812,7,4,3020.64,Wallet,3.7,Kolkata
+1745,Jacket,Kids,2716,6,3,7659.12,Wallet,4.1,Delhi
+1746,Jacket,Kids,3552,17,3,8844.48,UPI,4.9,Mumbai
+1747,Jeans,Women,3848,34,5,12698.4,UPI,3,Pune
+1748,T-Shirt,Women,1474,15,1,1252.9,Credit Card,4.2,Pune
+1749,T-Shirt,Men,2390,46,2,2581.2,Wallet,3.2,Delhi
+1750,Jacket,Kids,4480,38,4,11110.4,Debit Card,4.1,Kolkata
+1751,Shorts,Women,3666,39,1,2236.26,Wallet,3.1,Pune
+1752,T-Shirt,Men,3377,6,3,9523.14,Wallet,3.9,Mumbai
+1753,Jacket,Kids,4437,41,4,10471.32,Debit Card,3.1,Bangalore
+1754,Shoes,Women,2954,15,5,12554.5,Cash on Delivery,4.9,Pune
+1755,Dress,Women,3607,47,2,3823.42,Cash on Delivery,3.3,Kolkata
+1756,Jeans,Men,2171,32,3,4428.84,Cash on Delivery,4.3,Bangalore
+1757,Jacket,Women,2304,9,1,2096.64,Cash on Delivery,4.7,Pune
+1758,Shoes,Men,3022,39,4,7373.68,Wallet,3.5,Kolkata
+1759,T-Shirt,Kids,874,12,3,2307.36,Cash on Delivery,3,Delhi
+1760,Dress,Kids,4033,13,5,17543.55,Debit Card,3.1,Bangalore
+1761,Sweater,Kids,2865,17,3,7133.85,UPI,4.5,Bangalore
+1762,Jeans,Men,2763,11,2,4918.14,UPI,4.6,Bangalore
+1763,Sweater,Women,4054,27,1,2959.42,UPI,4.9,Kolkata
+1764,Dress,Women,1679,8,5,7723.4,Cash on Delivery,4.1,Chennai
+1765,Jacket,Women,1959,14,1,1684.74,Cash on Delivery,3.3,Delhi
+1766,Shoes,Kids,3714,8,5,17084.4,Debit Card,3.8,Mumbai
+1767,Shorts,Men,4722,34,2,6233.04,Cash on Delivery,3.9,Kolkata
+1768,Sweater,Women,575,18,3,1414.5,Cash on Delivery,3.6,Delhi
+1769,Dress,Kids,969,38,3,1802.34,Wallet,3.8,Kolkata
+1770,Shorts,Women,4624,44,3,7768.32,Wallet,4.1,Pune
+1771,Jeans,Men,4947,9,3,13505.31,Wallet,3.3,Mumbai
+1772,Dress,Women,4767,42,3,8294.58,Debit Card,4.3,Pune
+1773,T-Shirt,Women,3145,9,2,5723.9,Credit Card,3.8,Delhi
+1774,Shoes,Men,1833,30,4,5132.4,UPI,4.4,Delhi
+1775,Shoes,Women,748,22,3,1750.32,UPI,4.6,Bangalore
+1776,Shoes,Kids,3425,10,1,3082.5,Credit Card,4.4,Mumbai
+1777,Jacket,Kids,4409,39,4,10757.96,Wallet,3.2,Chennai
+1778,Dress,Women,1571,37,2,1979.46,Credit Card,4.5,Delhi
+1779,Shorts,Kids,2040,13,4,7099.2,Cash on Delivery,3.6,Delhi
+1780,T-Shirt,Women,890,7,4,3310.8,Cash on Delivery,3.3,Chennai
+1781,Jeans,Kids,2275,31,5,7848.75,Debit Card,4,Kolkata
+1782,Sweater,Men,4959,14,5,21323.7,Debit Card,4.4,Mumbai
+1783,Dress,Men,3922,20,4,12550.4,Cash on Delivery,4.5,Kolkata
+1784,T-Shirt,Women,2935,50,3,4402.5,Credit Card,4.8,Delhi
+1785,Jeans,Kids,4597,38,5,14250.7,Debit Card,3.8,Mumbai
+1786,Shoes,Men,4867,50,5,12167.5,Wallet,5,Kolkata
+1787,Sweater,Men,4892,11,1,4353.88,Credit Card,3.6,Bangalore
+1788,Shorts,Women,4396,20,1,3516.8,Wallet,4.6,Pune
+1789,T-Shirt,Women,4255,26,1,3148.7,Cash on Delivery,3.7,Pune
+1790,Sweater,Women,3847,14,5,16542.1,Cash on Delivery,3.8,Bangalore
+1791,Jacket,Women,4322,23,3,9983.82,Wallet,5,Kolkata
+1792,Shorts,Men,4963,34,5,16377.9,UPI,4.7,Hyderabad
+1793,T-Shirt,Kids,844,36,3,1620.48,UPI,4.8,Pune
+1794,Sweater,Men,1748,46,4,3775.68,Debit Card,3.8,Delhi
+1795,Jacket,Kids,922,14,5,3964.6,UPI,3.6,Delhi
+1796,Shoes,Men,1350,27,1,985.5,Credit Card,4.4,Delhi
+1797,Shoes,Kids,1194,14,3,3080.52,Debit Card,5,Hyderabad
+1798,Jacket,Kids,2068,50,3,3102,Wallet,4,Mumbai
+1799,Jeans,Women,4261,24,1,3238.36,Debit Card,3.7,Delhi
+1800,Jeans,Women,4677,23,2,7202.58,Credit Card,3.4,Delhi
+1801,Sweater,Men,3941,37,1,2482.83,Wallet,3.5,Bangalore
+1802,Shorts,Women,594,22,1,463.32,Cash on Delivery,3.2,Pune
+1803,Jacket,Women,3309,13,4,11515.32,Debit Card,3.7,Kolkata
+1804,Shorts,Men,4639,36,4,11875.84,Cash on Delivery,3.3,Chennai
+1805,Dress,Women,3168,15,2,5385.6,Debit Card,3.1,Hyderabad
+1806,T-Shirt,Women,2573,24,2,3910.96,UPI,3.5,Delhi
+1807,Sweater,Kids,2701,49,2,2755.02,Cash on Delivery,5,Pune
+1808,Dress,Kids,4468,34,4,11795.52,Credit Card,3.1,Delhi
+1809,Dress,Men,960,7,1,892.8,Credit Card,3.9,Delhi
+1810,Shoes,Women,2355,24,2,3579.6,Credit Card,3.4,Chennai
+1811,Shoes,Women,1013,15,3,2583.15,Credit Card,4.9,Kolkata
+1812,Shorts,Women,1589,17,1,1318.87,Wallet,3.4,Chennai
+1813,Sweater,Kids,4837,28,1,3482.64,Cash on Delivery,4.6,Delhi
+1814,T-Shirt,Men,659,30,4,1845.2,Cash on Delivery,4.7,Hyderabad
+1815,Sweater,Women,3227,36,3,6195.84,Credit Card,3.5,Mumbai
+1816,Jacket,Kids,1184,27,2,1728.64,UPI,4,Mumbai
+1817,Jeans,Men,1135,10,2,2043,Wallet,4.3,Bangalore
+1818,Shoes,Women,1024,48,5,2662.4,Cash on Delivery,3.1,Kolkata
+1819,Dress,Men,926,49,1,472.26,Cash on Delivery,3.3,Pune
+1820,Shorts,Women,3049,46,2,3292.92,UPI,3.6,Kolkata
+1821,Jeans,Kids,953,16,2,1601.04,Debit Card,4.4,Mumbai
+1822,Jeans,Women,2598,33,5,8703.3,Credit Card,3.2,Mumbai
+1823,T-Shirt,Women,3919,24,3,8935.32,Credit Card,3.9,Bangalore
+1824,T-Shirt,Women,1407,16,1,1181.88,UPI,4.2,Mumbai
+1825,Dress,Kids,3401,22,3,7958.34,Cash on Delivery,3.3,Hyderabad
+1826,Shoes,Women,4607,46,4,9951.12,Cash on Delivery,4.2,Bangalore
+1827,Shoes,Women,2529,8,5,11633.4,UPI,3.2,Pune
+1828,Jeans,Kids,3523,45,3,5812.95,Credit Card,4.3,Mumbai
+1829,Shorts,Men,3081,17,1,2557.23,Cash on Delivery,3.7,Hyderabad
+1830,Jacket,Men,4139,15,3,10554.45,UPI,3.3,Hyderabad
+1831,Dress,Men,4207,24,2,6394.64,Wallet,3.8,Bangalore
+1832,Shorts,Women,1189,50,4,2378,Debit Card,4.3,Delhi
+1833,Shoes,Kids,2822,21,4,8917.52,Debit Card,3.7,Bangalore
+1834,Jeans,Women,755,13,5,3284.25,UPI,4.2,Kolkata
+1835,Jeans,Men,2883,13,1,2508.21,Credit Card,3.5,Chennai
+1836,T-Shirt,Women,3395,26,3,7536.9,UPI,3.6,Mumbai
+1837,T-Shirt,Kids,755,23,5,2906.75,Credit Card,4.1,Chennai
+1838,Shoes,Kids,855,35,4,2223,Cash on Delivery,3.4,Hyderabad
+1839,Jeans,Kids,1011,13,3,2638.71,Debit Card,4.6,Pune
+1840,Dress,Kids,2642,15,3,6737.1,Wallet,4.2,Mumbai
+1841,Shorts,Women,1470,30,5,5145,Credit Card,4.4,Hyderabad
+1842,T-Shirt,Men,4561,30,2,6385.4,Wallet,4.3,Hyderabad
+1843,Dress,Women,903,20,2,1444.8,UPI,3.3,Mumbai
+1844,Dress,Kids,1756,27,3,3845.64,Debit Card,3.4,Mumbai
+1845,Jeans,Women,2353,5,3,6706.05,Debit Card,4.8,Pune
+1846,Jeans,Men,2137,6,2,4017.56,Cash on Delivery,3.8,Hyderabad
+1847,Sweater,Men,893,35,1,580.45,Cash on Delivery,4.4,Bangalore
+1848,Sweater,Men,4909,16,4,16494.24,Credit Card,3.2,Pune
+1849,T-Shirt,Kids,2247,15,1,1909.95,Wallet,4.9,Mumbai
+1850,Jeans,Men,3126,19,1,2532.06,Cash on Delivery,3.5,Delhi
+1851,Dress,Men,2920,5,1,2774,Debit Card,3.6,Delhi
+1852,Jeans,Women,3478,39,2,4243.16,Wallet,4.1,Hyderabad
+1853,Sweater,Kids,2374,40,1,1424.4,Debit Card,3.4,Chennai
+1854,Jacket,Women,3568,44,2,3996.16,Cash on Delivery,3.5,Pune
+1855,Shorts,Men,790,39,3,1445.7,Wallet,4,Bangalore
+1856,Shorts,Kids,541,37,2,681.66,Credit Card,4.4,Kolkata
+1857,Sweater,Kids,3872,39,4,9447.68,Credit Card,3.7,Delhi
+1858,Jacket,Kids,998,17,1,828.34,UPI,4.8,Pune
+1859,Dress,Women,4110,44,1,2301.6,Credit Card,3.5,Kolkata
+1860,Shoes,Men,723,44,4,1619.52,Credit Card,4.7,Hyderabad
+1861,T-Shirt,Women,1662,11,3,4437.54,UPI,5,Delhi
+1862,Sweater,Women,2177,23,4,6705.16,Credit Card,4.3,Kolkata
+1863,Shorts,Women,3953,47,5,10475.45,Credit Card,4.7,Pune
+1864,Shorts,Kids,2145,27,4,6263.4,Cash on Delivery,4.4,Chennai
+1865,Jeans,Women,1017,41,2,1200.06,Debit Card,3.8,Bangalore
+1866,Shoes,Kids,4372,40,3,7869.6,Wallet,3.2,Kolkata
+1867,Jeans,Men,2607,27,1,1903.11,Debit Card,4.9,Mumbai
+1868,Jacket,Women,2980,20,2,4768,Wallet,4.4,Delhi
+1869,Shoes,Kids,834,42,5,2418.6,Wallet,4.2,Delhi
+1870,Dress,Men,2026,33,2,2714.84,Wallet,4,Pune
+1871,Shoes,Men,1775,17,4,5893,UPI,4.5,Bangalore
+1872,Sweater,Women,1905,33,1,1276.35,Credit Card,3.2,Chennai
+1873,Dress,Men,3498,44,4,7835.52,Cash on Delivery,5,Delhi
+1874,Jeans,Men,1745,23,5,6718.25,Wallet,4.3,Chennai
+1875,T-Shirt,Kids,770,11,3,2055.9,Wallet,4,Bangalore
+1876,Sweater,Men,2698,39,5,8228.9,Wallet,4.4,Kolkata
+1877,Dress,Men,1412,17,1,1171.96,Credit Card,4.4,Bangalore
+1878,Shoes,Women,2820,41,4,6655.2,Wallet,3.6,Bangalore
+1879,Dress,Kids,4689,33,2,6283.26,Credit Card,3.9,Chennai
+1880,Shoes,Women,2120,18,2,3476.8,UPI,4.5,Delhi
+1881,T-Shirt,Men,3868,28,4,11139.84,Cash on Delivery,4.2,Kolkata
+1882,Dress,Kids,3624,9,5,16489.2,Debit Card,4.3,Mumbai
+1883,Jeans,Kids,4298,28,3,9283.68,Cash on Delivery,3.6,Hyderabad
+1884,Sweater,Men,2756,49,1,1405.56,Cash on Delivery,4.6,Delhi
+1885,Dress,Kids,1255,8,3,3463.8,Debit Card,3,Chennai
+1886,Jacket,Men,4644,15,3,11842.2,Wallet,4,Bangalore
+1887,Jeans,Kids,3253,49,1,1659.03,Credit Card,4.3,Hyderabad
+1888,Shoes,Kids,2308,48,5,6000.8,Wallet,4.1,Pune
+1889,Shorts,Kids,4446,43,3,7602.66,Wallet,4.2,Mumbai
+1890,T-Shirt,Men,1629,22,3,3811.86,Cash on Delivery,3.5,Kolkata
+1891,Sweater,Men,4564,36,1,2920.96,Cash on Delivery,4.5,Delhi
+1892,Dress,Men,3465,46,5,9355.5,Cash on Delivery,3.1,Bangalore
+1893,Dress,Kids,2765,37,3,5225.85,Cash on Delivery,3.1,Hyderabad
+1894,Shorts,Kids,2612,19,5,10578.6,Cash on Delivery,4.4,Delhi
+1895,Shoes,Kids,3820,43,1,2177.4,Credit Card,3.9,Mumbai
+1896,T-Shirt,Men,3228,26,3,7166.16,UPI,4.2,Delhi
+1897,Jacket,Women,3537,23,5,13617.45,UPI,4.3,Pune
+1898,Dress,Kids,4702,44,5,13165.6,Debit Card,3.1,Hyderabad
+1899,Jacket,Kids,1039,25,1,779.25,UPI,3.6,Chennai
+1900,Shoes,Men,3136,12,2,5519.36,UPI,3.7,Hyderabad
+1901,Sweater,Kids,1828,33,1,1224.76,Debit Card,3.6,Kolkata
+1902,Sweater,Women,1188,40,1,712.8,UPI,4.7,Hyderabad
+1903,Dress,Kids,4277,36,3,8211.84,Credit Card,4.5,Kolkata
+1904,Jeans,Men,4388,44,2,4914.56,Debit Card,4,Delhi
+1905,Jeans,Kids,1222,26,5,4521.4,Cash on Delivery,4,Chennai
+1906,Jacket,Kids,3726,37,4,9389.52,Credit Card,3.2,Bangalore
+1907,Sweater,Women,956,19,1,774.36,Wallet,5,Delhi
+1908,Sweater,Men,3619,40,2,4342.8,UPI,4.3,Kolkata
+1909,Jeans,Kids,4461,37,2,5620.86,Debit Card,4.8,Mumbai
+1910,Shorts,Kids,3955,45,1,2175.25,Wallet,4.3,Kolkata
+1911,Jeans,Men,3587,35,2,4663.1,Cash on Delivery,5,Delhi
+1912,Jacket,Men,1706,21,2,2695.48,Credit Card,3.1,Delhi
+1913,Shoes,Women,2790,45,3,4603.5,Debit Card,3.8,Delhi
+1914,Sweater,Kids,4493,37,5,14152.95,Debit Card,5,Kolkata
+1915,Sweater,Women,4010,32,5,13634,Credit Card,4.4,Kolkata
+1916,Shorts,Women,3763,17,5,15616.45,UPI,3.7,Mumbai
+1917,Sweater,Kids,3957,11,2,7043.46,Wallet,3.4,Bangalore
+1918,Dress,Kids,2404,46,1,1298.16,Cash on Delivery,4,Kolkata
+1919,Dress,Kids,3559,38,4,8826.32,Credit Card,3.1,Bangalore
+1920,Sweater,Kids,1786,44,5,5000.8,Cash on Delivery,4.4,Pune
+1921,Shoes,Women,2163,28,2,3114.72,Debit Card,3.3,Chennai
+1922,Jacket,Kids,4090,9,2,7443.8,Debit Card,4.4,Bangalore
+1923,Dress,Men,3874,22,3,9065.16,Debit Card,3.2,Pune
+1924,Jacket,Women,2140,23,3,4943.4,Cash on Delivery,3.5,Chennai
+1925,Sweater,Men,1292,9,1,1175.72,UPI,4.8,Chennai
+1926,T-Shirt,Men,4721,50,2,4721,Wallet,3.8,Hyderabad
+1927,Dress,Men,3564,34,3,7056.72,Debit Card,4,Pune
+1928,T-Shirt,Men,2710,47,5,7181.5,Cash on Delivery,5,Delhi
+1929,Dress,Men,1717,43,1,978.69,UPI,3.9,Chennai
+1930,Shoes,Men,1077,6,1,1012.38,Debit Card,3,Delhi
+1931,Shoes,Women,1984,44,4,4444.16,UPI,3,Bangalore
+1932,T-Shirt,Men,4818,34,1,3179.88,Wallet,4.7,Delhi
+1933,Shorts,Men,1898,11,5,8446.1,UPI,3.5,Bangalore
+1934,Sweater,Women,3783,11,4,13467.48,Cash on Delivery,4.7,Delhi
+1935,T-Shirt,Kids,775,6,3,2185.5,Wallet,3.2,Bangalore
+1936,Dress,Men,1263,49,2,1288.26,Credit Card,3.8,Bangalore
+1937,Sweater,Women,563,26,3,1249.86,Debit Card,4.4,Bangalore
+1938,Shorts,Women,1349,38,2,1672.76,Credit Card,4.8,Pune
+1939,Dress,Men,4306,20,2,6889.6,Cash on Delivery,3.1,Chennai
+1940,Jacket,Women,4382,46,2,4732.56,Credit Card,4.2,Pune
+1941,Sweater,Women,667,36,4,1707.52,Debit Card,4.1,Kolkata
+1942,Sweater,Kids,1216,38,4,3015.68,Cash on Delivery,4.3,Pune
+1943,Dress,Men,2234,7,1,2077.62,Cash on Delivery,3.3,Chennai
+1944,T-Shirt,Women,4070,26,2,6023.6,UPI,4.2,Bangalore
+1945,Shorts,Men,4948,33,4,13260.64,Cash on Delivery,3.5,Mumbai
+1946,Jeans,Kids,935,9,2,1701.7,Debit Card,4.9,Delhi
+1947,T-Shirt,Kids,3558,36,3,6831.36,Credit Card,3.2,Bangalore
+1948,Jacket,Kids,1104,10,3,2980.8,Wallet,3.8,Mumbai
+1949,T-Shirt,Women,2660,33,5,8911,Debit Card,4.7,Bangalore
+1950,Sweater,Kids,3649,24,2,5546.48,UPI,3.3,Chennai
+1951,Shorts,Men,3698,43,3,6323.58,Debit Card,3.8,Hyderabad
+1952,Shorts,Men,3974,39,2,4848.28,Cash on Delivery,5,Pune
+1953,Sweater,Kids,3142,25,3,7069.5,Credit Card,3.7,Pune
+1954,Jacket,Kids,3805,7,2,7077.3,UPI,4,Pune
+1955,Shoes,Kids,3044,44,4,6818.56,UPI,4.8,Delhi
+1956,Dress,Men,4908,27,5,17914.2,Cash on Delivery,3.9,Hyderabad
+1957,Dress,Men,607,10,3,1638.9,Credit Card,3.2,Delhi
+1958,Sweater,Men,1868,21,4,5902.88,UPI,4,Hyderabad
+1959,T-Shirt,Women,3080,50,5,7700,Cash on Delivery,3.8,Delhi
+1960,Shorts,Women,3450,5,1,3277.5,Wallet,3.7,Mumbai
+1961,Jacket,Men,1289,41,1,760.51,Credit Card,4.2,Mumbai
+1962,Sweater,Kids,859,34,1,566.94,UPI,4.5,Chennai
+1963,Shorts,Kids,4272,10,5,19224,Wallet,4.2,Hyderabad
+1964,Shorts,Kids,4800,17,4,15936,Credit Card,3.3,Hyderabad
+1965,Jacket,Women,2079,36,2,2661.12,Debit Card,3.9,Hyderabad
+1966,Sweater,Women,3890,12,3,10269.6,Credit Card,4.1,Mumbai
+1967,Jacket,Men,739,21,3,1751.43,UPI,4.4,Mumbai
+1968,Shoes,Men,2157,25,2,3235.5,Wallet,3.2,Kolkata
+1969,Sweater,Men,1466,17,2,2433.56,Credit Card,4.2,Hyderabad
+1970,Dress,Kids,3526,43,1,2009.82,Debit Card,3.3,Pune
+1971,T-Shirt,Kids,4619,27,2,6743.74,Cash on Delivery,4.7,Hyderabad
+1972,Dress,Men,3690,35,4,9594,Wallet,4.7,Bangalore
+1973,Dress,Women,991,31,3,2051.37,UPI,4.9,Delhi
+1974,Sweater,Women,4507,13,1,3921.09,Credit Card,4.7,Chennai
+1975,Dress,Men,3097,13,4,10777.56,Credit Card,4.3,Chennai
+1976,Jeans,Kids,3454,32,5,11743.6,Cash on Delivery,3.1,Kolkata
+1977,T-Shirt,Kids,1567,36,5,5014.4,Credit Card,3.6,Hyderabad
+1978,Jacket,Women,671,31,2,925.98,UPI,3,Bangalore
+1979,Shoes,Women,905,33,5,3031.75,Cash on Delivery,3.9,Delhi
+1980,Jeans,Kids,3418,18,3,8408.28,UPI,4.9,Bangalore
+1981,Dress,Kids,3164,9,3,8637.72,UPI,3.7,Pune
+1982,Jacket,Men,1525,19,3,3705.75,UPI,3.5,Chennai
+1983,Sweater,Kids,850,44,3,1428,UPI,4.3,Chennai
+1984,Jacket,Kids,4391,21,4,13875.56,Wallet,3.6,Mumbai
+1985,T-Shirt,Women,513,28,3,1108.08,Wallet,4.9,Bangalore
+1986,Shoes,Women,976,27,4,2849.92,Wallet,4.5,Mumbai
+1987,T-Shirt,Men,4824,35,1,3135.6,Wallet,3.4,Delhi
+1988,Sweater,Men,1080,41,1,637.2,Cash on Delivery,4.7,Kolkata
+1989,Jacket,Kids,866,28,3,1870.56,Debit Card,3.2,Bangalore
+1990,Dress,Kids,678,6,4,2549.28,Credit Card,4.8,Mumbai
+1991,Sweater,Men,3033,46,2,3275.64,Cash on Delivery,4,Hyderabad
+1992,Dress,Men,3708,41,3,6563.16,Wallet,4.8,Kolkata
+1993,Sweater,Women,4100,8,3,11316,Cash on Delivery,4.4,Pune
+1994,Dress,Women,4754,19,4,15402.96,Cash on Delivery,3.7,Delhi
+1995,Shoes,Women,3346,21,5,13216.7,Debit Card,4.8,Hyderabad
+1996,Shorts,Men,2355,8,4,8666.4,UPI,4.1,Pune
+1997,T-Shirt,Kids,4173,44,1,2336.88,Debit Card,3.9,Pune
+1998,Sweater,Kids,4008,35,1,2605.2,Debit Card,4.5,Pune
+1999,Shoes,Women,1567,8,3,4324.92,Debit Card,3.5,Mumbai
+2000,Sweater,Men,3650,28,2,5256,Cash on Delivery,4.9,Bangalore
